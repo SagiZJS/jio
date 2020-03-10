@@ -1,0 +1,445 @@
+'==========以下是按键精灵录制的内容==========
+While True
+	
+	'==========以下是按键精灵录制的内容==========
+MoveTo 1185, 564
+Delay 244
+KeyDown "2", 1
+Delay 61
+KeyUp "2", 1
+Delay 68
+KeyDown "2", 1
+Delay 76
+KeyUp "2", 1
+Delay 54
+KeyDown "2", 1
+Delay 81
+KeyUp "2", 1
+Delay 522
+KeyDown "4", 1
+Delay 1
+Delay 86
+KeyUp "4", 1
+Delay 44
+KeyDown "4", 1
+Delay 82
+KeyUp "4", 1
+Delay 39
+KeyDown "4", 1
+Delay 61
+KeyUp "4", 1
+Delay 61
+KeyDown "4", 1
+Delay 59
+KeyUp "4", 1
+Delay 65
+KeyDown "4", 1
+Delay 59
+KeyUp "4", 1
+Delay 763
+KeyDown "5", 1
+Delay 72
+KeyUp "5", 1
+Delay 62
+KeyDown "5", 1
+Delay 67
+KeyUp "5", 1
+Delay 55
+KeyDown "5", 1
+Delay 73
+KeyUp "5", 1
+Delay 49
+KeyDown "5", 1
+Delay 65
+KeyUp "5", 1
+Delay 683
+KeyDown "6", 1
+Delay 67
+KeyUp "6", 1
+Delay 62
+KeyDown "6", 1
+Delay 72
+KeyUp "6", 1
+Delay 50
+KeyDown "6", 1
+Delay 72
+KeyUp "6", 1
+Delay 55
+KeyDown "6", 1
+Delay 63
+KeyUp "6", 1
+Delay 115
+KeyDown "6", 1
+Delay 42
+KeyUp "6", 1
+Delay 742
+
+KeyDown "7", 1
+Delay 67
+KeyUp "7", 1
+Delay 62
+KeyDown "7", 1
+Delay 72
+KeyUp "7", 1
+Delay 50
+KeyDown "7", 1
+Delay 72
+KeyUp "7", 1
+Delay 55
+KeyDown "7", 1
+Delay 63
+KeyUp "7", 1
+Delay 115
+KeyDown "7", 1
+Delay 42
+KeyUp "7", 1
+Delay 742
+
+KeyDown "A", 1
+Delay 70
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 75
+KeyUp "A", 1
+Delay 56
+KeyDown "A", 1
+Delay 61
+KeyUp "A", 1
+Delay 49
+KeyDown "A", 1
+Delay 74
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+MoveTo 1186, 564
+Delay 74
+KeyUp "A", 1
+'==========以上是按键精灵录制的内容==========
+
+For 13
+
+
+Delay 1398
+KeyDown "1", 1
+Delay 88
+KeyUp "1", 1
+Delay 88
+KeyDown "1", 1
+Delay 88
+KeyUp "1", 1
+Delay 88
+KeyDown "Left", 1
+Delay 33
+KeyUp "Left", 1
+
+Delay 32
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 493
+KeyUp "F", 1
+Delay 117
+
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 334
+KeyUp "F", 1
+Delay 316
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 22
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 22
+KeyDown "Right", 1
+Delay 503
+Delay 30
+KeyDown "Right", 1
+Delay 33
+Delay 33
+KeyDown "Right", 1
+Delay 33
+Delay 34
+KeyDown "Right", 1
+Delay 33
+Delay 34
+KeyDown "Right", 1
+Delay 33
+Delay 34
+KeyDown "Right", 1
+Delay 34
+KeyUp "Right", 1
+Delay 14
+
+'==========以下是按键精灵录制的内容==========
+
+Delay 49
+KeyDown "A", 1
+
+Delay 77
+KeyUp "A", 1
+
+Delay 56
+KeyDown "A", 1
+
+Delay 79
+KeyUp "A", 1
+
+Delay 57
+KeyDown "A", 1
+
+Delay 77
+KeyUp "A", 1
+Delay 349
+'==========以上是按键精灵录制的内容==========
+
+''' middle 1st
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 39
+KeyUp "F", 1
+Delay 610
+
+
+''' middle 2nd
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 350
+KeyUp "F", 1
+Delay 282
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "Left", 1
+Delay 352
+
+KeyDown "F", 1
+Delay 64
+KeyUp "F", 1
+Delay 68
+KeyDown "F", 1
+Delay 58
+KeyUp "F", 1
+Delay 57
+KeyDown "F", 1
+Delay 84
+KeyUp "F", 1
+Delay 283
+
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyUp "Left", 1
+Delay 33
+KeyDown "F", 1
+Delay 33
+
+KeyUp "F", 1
+Delay 586
+
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+
+KeyDown "F", 1
+Delay 34
+
+KeyUp "F", 1
+Delay 616
+
+KeyDown "F", 1
+Delay 67
+KeyUp "F", 1
+Delay 50
+KeyDown "F", 1
+Delay 66
+KeyUp "F", 1
+Delay 70
+KeyDown "F", 1
+Delay 79
+KeyUp "F", 1
+Delay 284
+Delay 49
+KeyDown "A", 1
+
+Delay 77
+KeyUp "A", 1
+
+Delay 56
+KeyDown "A", 1
+
+Delay 79
+KeyUp "A", 1
+
+Delay 57
+KeyDown "A", 1
+
+Delay 77
+KeyUp "A", 1
+Delay 349
+
+'==========以下是按键精灵录制的内容==========
+
+Delay 32
+KeyDown "Left", 1
+Delay 117
+KeyUp "Left", 1
+Delay 83
+
+'==========以下是按键精灵录制的内容==========
+
+KeyDown "X", 1
+Delay 66
+KeyUp "X", 1
+Delay 83
+KeyDown "X", 1
+Delay 67
+KeyUp "X", 1
+Delay 66
+KeyDown "X", 1
+Delay 68
+KeyUp "X", 1
+Delay 50
+KeyDown "X", 1
+Delay 65
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 66
+KeyUp "X", 1
+Delay 67
+KeyDown "X", 1
+Delay 49
+KeyUp "X", 1
+Delay 67
+KeyDown "X", 1
+Delay 33
+KeyUp "X", 1
+Delay 67
+KeyDown "X", 1
+Delay 83
+KeyUp "X", 1
+'==========以上是按键精灵录制的内容==========
+
+Delay 383
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 22
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 22
+Next
+'==========以上是按键精灵录制的内容==========
+
+'==========以上是按键精灵录制的内容==========
+Wend

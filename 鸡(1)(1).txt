@@ -1,0 +1,4210 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=122
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=09f1f131-c102-49e9-bc6e-74c861ae435e
+Description=鸡
+Enable=0
+AutoRun=0
+[Repeat]
+Type=2
+Number=960
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Script]
+
+'==========以下是按键精灵录制的内容==========
+Delay 472
+KeyDown "1", 1
+Delay 90
+KeyUp "1", 1
+Delay 598
+KeyDown "Right", 1
+Delay 124
+KeyUp "Right", 1
+Delay 447
+KeyDown "5", 1
+Delay 61
+KeyUp "5", 1
+Delay 103
+KeyDown "5", 1
+Delay 70
+KeyUp "5", 1
+Delay 88
+KeyDown "5", 1
+Delay 113
+KeyUp "5", 1
+Delay 84
+KeyDown "5", 1
+Delay 65
+KeyUp "5", 1
+Delay 400
+KeyDown "F3", 1
+Delay 62
+KeyUp "F3", 1
+Delay 91
+KeyDown "F3", 1
+Delay 61
+KeyUp "F3", 1
+Delay 86
+KeyDown "F3", 1
+Delay 54
+KeyUp "F3", 1
+Delay 78
+KeyDown "F3", 1
+Delay 52
+KeyUp "F3", 1
+Delay 80
+KeyDown "F3", 1
+Delay 61
+KeyUp "F3", 1
+Delay 94
+KeyDown "F3", 1
+Delay 35
+KeyUp "F3", 1
+Delay 80
+KeyDown "F3", 1
+Delay 58
+KeyUp "F3", 1
+Delay 59
+KeyDown "F3", 1
+Delay 72
+KeyUp "F3", 1
+Delay 911
+KeyDown "Right", 1
+Delay 496
+Delay 35
+KeyDown "Right", 1
+Delay 35
+Delay 31
+KeyDown "Right", 1
+Delay 31
+Delay 28
+KeyDown "R", 1
+Delay 42
+KeyUp "Right", 1
+Delay 48
+KeyUp "R", 1
+Delay 81
+KeyDown "R", 1
+Delay 81
+KeyUp "R", 1
+Delay 64
+KeyDown "R", 1
+Delay 108
+KeyUp "R", 1
+Delay 36
+KeyDown "Right", 1
+Delay 504
+KeyDown "Q", 1
+Delay 100
+KeyUp "Q", 1
+Delay 5
+KeyUp "Right", 1
+Delay 62
+KeyDown "Q", 1
+Delay 72
+KeyUp "Q", 1
+Delay 91
+KeyDown "Q", 1
+Delay 69
+KeyUp "Q", 1
+Delay 49
+KeyDown "Right", 1
+Delay 393
+KeyDown "Alt", 1
+Delay 108
+KeyDown "X", 1
+Delay 11
+KeyUp "Alt", 1
+Delay 222
+KeyUp "X", 1
+Delay 56
+KeyDown "X", 1
+Delay 87
+KeyUp "X", 1
+Delay 154
+KeyDown "Alt", 1
+Delay 115
+KeyUp "Alt", 1
+Delay 34
+KeyDown "X", 1
+Delay 73
+KeyUp "X", 1
+Delay 65
+KeyDown "X", 1
+Delay 62
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 79
+KeyUp "X", 1
+Delay 55
+KeyDown "X", 1
+Delay 109
+KeyUp "X", 1
+Delay 181
+KeyDown "Alt", 1
+Delay 85
+KeyUp "Alt", 1
+Delay 90
+KeyDown "A", 1
+Delay 107
+KeyUp "A", 1
+Delay 54
+KeyDown "A", 1
+Delay 106
+KeyUp "A", 1
+Delay 244
+KeyDown "Alt", 1
+Delay 79
+KeyUp "Alt", 1
+Delay 80
+KeyDown "Alt", 1
+Delay 107
+KeyUp "Alt", 1
+Delay 127
+KeyDown "A", 1
+Delay 156
+KeyUp "A", 1
+Delay 71
+KeyDown "X", 1
+Delay 99
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 67
+KeyUp "X", 1
+Delay 64
+KeyDown "X", 1
+Delay 62
+KeyUp "X", 1
+Delay 68
+KeyDown "X", 1
+Delay 73
+KeyUp "X", 1
+Delay 78
+KeyDown "X", 1
+Delay 69
+KeyUp "X", 1
+Delay 305
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 71
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 101
+KeyUp "Right", 1
+Delay 20
+KeyUp "A", 1
+Delay 45
+KeyDown "A", 1
+Delay 97
+KeyUp "A", 1
+Delay 169
+KeyDown "Right", 1
+Delay 391
+KeyUp "Right", 1
+Delay 1
+KeyDown "Left", 1
+Delay 71
+KeyDown "R", 1
+Delay 80
+KeyUp "Left", 1
+Delay 23
+KeyUp "R", 1
+Delay 79
+KeyDown "R", 1
+Delay 75
+KeyUp "R", 1
+Delay 91
+KeyDown "R", 1
+Delay 68
+KeyUp "R", 1
+Delay 71
+KeyDown "R", 1
+Delay 89
+KeyUp "R", 1
+Delay 42
+KeyDown "R", 1
+Delay 118
+KeyUp "R", 1
+Delay 237
+KeyDown "Left", 1
+Delay 494
+Delay 36
+KeyDown "Left", 1
+Delay 32
+Delay 20
+KeyDown "1", 1
+Delay 50
+KeyUp "Left", 1
+Delay 26
+KeyUp "1", 1
+Delay 82
+KeyDown "1", 1
+Delay 32
+KeyDown "Left", 1
+Delay 53
+KeyUp "1", 1
+Delay 280
+KeyDown "Alt", 1
+Delay 111
+KeyUp "Alt", 1
+Delay 56
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 62
+KeyDown "X", 1
+Delay 95
+KeyUp "X", 1
+Delay 71
+KeyDown "X", 1
+Delay 69
+KeyUp "X", 1
+Delay 103
+KeyDown "X", 1
+Delay 73
+KeyUp "X", 1
+Delay 46
+KeyDown "X", 1
+Delay 61
+KeyUp "X", 1
+Delay 18
+KeyDown "Alt", 1
+Delay 101
+KeyUp "Alt", 1
+Delay 117
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 54
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 40
+KeyUp "Left", 1
+Delay 42
+KeyDown "A", 1
+Delay 69
+KeyUp "A", 1
+Delay 5
+KeyDown "Left", 1
+Delay 50
+KeyDown "A", 1
+Delay 123
+KeyUp "A", 1
+Delay 343
+KeyDown "G", 1
+Delay 49
+KeyUp "Left", 1
+Delay 27
+KeyUp "G", 1
+Delay 94
+KeyDown "G", 1
+Delay 64
+Delay 1
+KeyUp "G", 1
+Delay 271
+KeyDown "Left", 1
+Delay 111
+KeyDown "Alt", 1
+Delay 124
+KeyUp "Alt", 1
+Delay 119
+KeyDown "A", 1
+Delay 37
+KeyDown "Right", 1
+Delay 19
+KeyUp "Left", 1
+Delay 30
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 51
+KeyUp "Right", 1
+Delay 30
+KeyUp "A", 1
+Delay 101
+KeyDown "A", 1
+Delay 53
+KeyDown "Left", 1
+Delay 20
+KeyUp "A", 1
+Delay 49
+KeyDown "A", 1
+Delay 110
+KeyUp "A", 1
+Delay 620
+KeyDown "A", 1
+Delay 96
+KeyUp "Left", 1
+Delay 1
+KeyUp "A", 1
+Delay 62
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+KeyDown "Left", 1
+Delay 202
+KeyUp "Left", 1
+Delay 94
+KeyDown "Left", 1
+Delay 170
+KeyUp "Left", 1
+Delay 54
+KeyDown "W", 1
+Delay 55
+KeyUp "W", 1
+Delay 103
+KeyDown "W", 1
+Delay 71
+KeyUp "W", 1
+Delay 69
+KeyDown "W", 1
+Delay 100
+KeyUp "W", 1
+Delay 52
+KeyDown "W", 1
+Delay 15
+KeyDown "Right", 1
+Delay 76
+KeyUp "W", 1
+Delay 247
+KeyDown "Alt", 1
+Delay 87
+KeyUp "Alt", 1
+Delay 88
+KeyUp "Right", 1
+Delay 35
+KeyDown "A", 1
+Delay 70
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 75
+KeyDown "A", 1
+Delay 71
+KeyDown "Right", 1
+Delay 21
+KeyUp "A", 1
+Delay 241
+KeyUp "Right", 1
+Delay 38
+KeyDown "Left", 1
+Delay 142
+KeyDown "Alt", 1
+Delay 116
+KeyUp "Alt", 1
+Delay 79
+KeyDown "A", 1
+Delay 79
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 60
+KeyUp "Left", 1
+Delay 35
+KeyUp "A", 1
+Delay 22
+KeyDown "Left", 1
+Delay 189
+KeyDown "X", 1
+Delay 105
+KeyUp "X", 1
+Delay 66
+KeyDown "X", 1
+Delay 72
+KeyUp "X", 1
+Delay 119
+KeyDown "Alt", 1
+Delay 105
+KeyUp "Alt", 1
+Delay 87
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 70
+KeyUp "Left", 1
+Delay 4
+KeyDown "A", 1
+Delay 73
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 11
+KeyDown "Left", 1
+Delay 47
+KeyDown "A", 1
+Delay 240
+KeyUp "A", 1
+Delay 283
+KeyDown "G", 1
+Delay 22
+KeyUp "Left", 1
+Delay 207
+KeyUp "G", 1
+Delay 90
+KeyDown "G", 1
+Delay 89
+Delay 1
+KeyDown "G", 1
+Delay 18
+KeyUp "G", 1
+Delay 133
+KeyDown "Left", 1
+Delay 152
+KeyDown "Alt", 1
+Delay 88
+KeyUp "Alt", 1
+Delay 94
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 60
+KeyUp "Left", 1
+Delay 1
+KeyDown "A", 1
+Delay 126
+KeyUp "A", 1
+Delay 11
+KeyDown "Left", 1
+Delay 209
+KeyDown "X", 1
+Delay 63
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 55
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 56
+KeyDown "X", 1
+Delay 93
+KeyUp "X", 1
+Delay 137
+KeyDown "Alt", 1
+Delay 95
+KeyUp "Alt", 1
+Delay 73
+KeyDown "Alt", 1
+Delay 102
+KeyUp "Alt", 1
+Delay 80
+KeyDown "Down", 1
+Delay 61
+KeyUp "Left", 1
+Delay 278
+KeyDown "Alt", 1
+Delay 79
+KeyUp "Alt", 1
+Delay 84
+KeyDown "Alt", 1
+Delay 84
+KeyUp "Alt", 1
+Delay 78
+KeyDown "Alt", 1
+Delay 76
+KeyUp "Alt", 1
+Delay 84
+KeyDown "Alt", 1
+Delay 117
+KeyUp "Alt", 1
+Delay 20
+KeyDown "Right", 1
+Delay 6
+KeyUp "Down", 1
+Delay 106
+KeyDown "X", 1
+Delay 76
+KeyUp "X", 1
+Delay 57
+KeyDown "X", 1
+Delay 114
+KeyUp "X", 1
+Delay 54
+KeyUp "Right", 1
+Delay 396
+KeyDown "Right", 1
+Delay 100
+KeyDown "X", 1
+Delay 79
+KeyUp "X", 1
+Delay 71
+KeyDown "X", 1
+Delay 68
+KeyUp "X", 1
+Delay 54
+KeyDown "X", 1
+Delay 138
+KeyUp "X", 1
+Delay 34
+KeyUp "Right", 1
+Delay 147
+KeyDown "Left", 1
+Delay 311
+KeyDown "Right", 1
+Delay 15
+KeyUp "Left", 1
+Delay 123
+KeyUp "Right", 1
+Delay 64
+KeyDown "Up", 1
+Delay 126
+KeyDown "X", 1
+Delay 62
+KeyUp "X", 1
+Delay 77
+KeyDown "X", 1
+Delay 91
+KeyUp "X", 1
+Delay 74
+KeyUp "Up", 1
+Delay 102
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 71
+KeyUp "A", 1
+Delay 84
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 550
+KeyDown "4", 1
+Delay 81
+KeyUp "4", 1
+Delay 69
+KeyDown "4", 1
+Delay 83
+KeyUp "4", 1
+Delay 69
+KeyDown "4", 1
+Delay 59
+KeyUp "4", 1
+Delay 89
+KeyDown "4", 1
+Delay 72
+KeyUp "4", 1
+Delay 663
+KeyDown "Right", 1
+Delay 68
+KeyDown "A", 1
+Delay 20
+KeyUp "Right", 1
+Delay 71
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 85
+KeyDown "A", 1
+Delay 82
+KeyUp "A", 1
+Delay 273
+KeyDown "Q", 1
+Delay 85
+KeyUp "Q", 1
+Delay 59
+KeyDown "Q", 1
+Delay 89
+KeyUp "Q", 1
+Delay 74
+KeyDown "Q", 1
+Delay 80
+KeyUp "Q", 1
+Delay 73
+KeyDown "Q", 1
+Delay 79
+KeyUp "Q", 1
+Delay 64
+KeyDown "Q", 1
+Delay 83
+KeyUp "Q", 1
+Delay 332
+KeyDown "Left", 1
+Delay 67
+KeyUp "Left", 1
+Delay 17
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 59
+KeyUp "A", 1
+Delay 72
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 204
+KeyDown "Right", 1
+Delay 216
+KeyDown "A", 1
+Delay 11
+KeyUp "Right", 1
+Delay 93
+KeyUp "A", 1
+Delay 66
+KeyDown "A", 1
+Delay 208
+KeyUp "A", 1
+Delay 158
+KeyDown "F9", 1
+Delay 66
+KeyUp "F9", 1
+Delay 89
+KeyDown "F9", 1
+Delay 69
+KeyUp "F9", 1
+Delay 70
+KeyDown "F9", 1
+Delay 112
+KeyUp "F9", 1
+Delay 180
+KeyDown "Left", 1
+Delay 110
+KeyDown "A", 1
+Delay 21
+KeyUp "Left", 1
+Delay 69
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 78
+KeyUp "A", 1
+Delay 72
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 510
+KeyDown "Right", 1
+Delay 136
+KeyUp "Right", 1
+Delay 14
+KeyDown "A", 1
+Delay 87
+KeyUp "A", 1
+Delay 93
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 614
+KeyDown "Left", 1
+Delay 53
+KeyDown "A", 1
+Delay 60
+KeyUp "Left", 1
+Delay 49
+KeyUp "A", 1
+Delay 75
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 124
+KeyUp "A", 1
+Delay 162
+KeyDown "Right", 1
+Delay 169
+KeyUp "Right", 1
+Delay 71
+KeyDown "A", 1
+Delay 59
+KeyUp "A", 1
+Delay 82
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 116
+KeyUp "A", 1
+Delay 175
+KeyDown "Left", 1
+Delay 304
+KeyUp "Left", 1
+Delay 6
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 347
+KeyDown "H", 1
+Delay 97
+KeyUp "H", 1
+Delay 83
+KeyDown "H", 1
+Delay 70
+KeyUp "H", 1
+Delay 89
+KeyDown "H", 1
+Delay 140
+KeyUp "H", 1
+Delay 564
+KeyDown "Right", 1
+Delay 75
+KeyUp "Right", 1
+Delay 56
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 122
+KeyUp "A", 1
+Delay 106
+KeyDown "Left", 1
+Delay 92
+KeyUp "Left", 1
+Delay 98
+KeyDown "H", 1
+Delay 82
+KeyUp "H", 1
+Delay 82
+KeyDown "H", 1
+Delay 67
+KeyUp "H", 1
+Delay 89
+KeyDown "H", 1
+Delay 60
+KeyUp "H", 1
+Delay 75
+KeyDown "H", 1
+Delay 66
+KeyUp "H", 1
+Delay 80
+KeyDown "H", 1
+Delay 68
+KeyUp "H", 1
+Delay 345
+KeyDown "A", 1
+Delay 85
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 102
+KeyDown "A", 1
+Delay 70
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 222
+KeyDown "Left", 1
+Delay 184
+KeyUp "Left", 1
+Delay 104
+KeyDown "D", 1
+Delay 84
+KeyUp "D", 1
+Delay 77
+KeyDown "D", 1
+Delay 84
+KeyUp "D", 1
+Delay 74
+KeyDown "D", 1
+Delay 82
+KeyUp "D", 1
+Delay 87
+KeyDown "D", 1
+Delay 97
+KeyUp "D", 1
+Delay 47
+KeyDown "D", 1
+Delay 104
+KeyUp "D", 1
+Delay 49
+KeyDown "D", 1
+Delay 117
+KeyUp "D", 1
+Delay 349
+KeyDown "Left", 1
+Delay 143
+KeyUp "Left", 1
+Delay 1
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 91
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 58
+KeyDown "A", 1
+Delay 113
+KeyUp "A", 1
+Delay 210
+KeyDown "Right", 1
+Delay 212
+KeyDown "A", 1
+Delay 8
+KeyUp "Right", 1
+Delay 103
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 94
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 108
+KeyUp "A", 1
+Delay 310
+KeyDown "Right", 1
+Delay 148
+KeyUp "Right", 1
+Delay 1
+KeyDown "Left", 1
+Delay 108
+KeyDown "A", 1
+Delay 33
+KeyUp "Left", 1
+Delay 72
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 60
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 181
+KeyDown "D", 1
+Delay 73
+KeyUp "D", 1
+Delay 76
+KeyDown "D", 1
+Delay 102
+KeyUp "D", 1
+Delay 60
+KeyDown "D", 1
+Delay 77
+KeyUp "D", 1
+Delay 92
+KeyDown "D", 1
+Delay 69
+KeyUp "D", 1
+Delay 83
+KeyDown "D", 1
+Delay 88
+KeyUp "D", 1
+Delay 51
+KeyDown "D", 1
+Delay 116
+KeyUp "D", 1
+Delay 515
+KeyDown "Left", 1
+Delay 230
+KeyDown "Right", 1
+Delay 18
+KeyUp "Left", 1
+Delay 89
+KeyUp "Right", 1
+Delay 18
+KeyDown "T", 1
+Delay 70
+KeyUp "T", 1
+Delay 95
+KeyDown "T", 1
+Delay 77
+KeyUp "T", 1
+Delay 74
+KeyDown "T", 1
+Delay 85
+KeyUp "T", 1
+Delay 60
+KeyDown "T", 1
+Delay 127
+KeyUp "T", 1
+Delay 186
+KeyDown "Left", 1
+Delay 122
+KeyUp "Left", 1
+Delay 34
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 110
+KeyUp "A", 1
+Delay 61
+KeyDown "A", 1
+Delay 107
+KeyUp "A", 1
+Delay 182
+KeyDown "Right", 1
+Delay 180
+KeyUp "Right", 1
+Delay 193
+KeyDown "Right", 1
+Delay 151
+KeyUp "Right", 1
+Delay 266
+KeyDown "Left", 1
+Delay 29
+KeyDown "A", 1
+Delay 84
+KeyUp "Left", 1
+Delay 40
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 58
+KeyDown "Right", 1
+Delay 50
+KeyUp "A", 1
+Delay 379
+KeyUp "Right", 1
+Delay 356
+KeyDown "Right", 1
+Delay 126
+KeyUp "Right", 1
+Delay 1
+KeyDown "Left", 1
+Delay 30
+KeyDown "Ctrl", 1
+Delay 221
+KeyUp "Left", 1
+Delay 1
+KeyUp "Ctrl", 1
+Delay 2
+KeyDown "Ctrl", 1
+Delay 43
+KeyUp "Ctrl", 1
+Delay 93
+KeyDown "Ctrl", 1
+Delay 78
+KeyUp "Ctrl", 1
+Delay 86
+KeyDown "Ctrl", 1
+Delay 85
+KeyUp "Ctrl", 1
+Delay 281
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 91
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 96
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 60
+KeyDown "A", 1
+Delay 128
+KeyUp "A", 1
+Delay 373
+KeyDown "Left", 1
+Delay 102
+KeyDown "A", 1
+Delay 11
+KeyUp "Left", 1
+Delay 81
+KeyUp "A", 1
+Delay 95
+KeyDown "A", 1
+Delay 82
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 125
+KeyUp "A", 1
+Delay 45
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 259
+KeyDown "Left", 1
+Delay 122
+KeyUp "Left", 1
+Delay 24
+KeyDown "A", 1
+Delay 78
+KeyUp "A", 1
+Delay 84
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 228
+KeyDown "Right", 1
+Delay 135
+KeyUp "Right", 1
+Delay 100
+KeyDown "A", 1
+Delay 4
+KeyDown "Left", 1
+Delay 52
+KeyUp "A", 1
+Delay 55
+KeyUp "Left", 1
+Delay 21
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 173
+KeyDown "Right", 1
+Delay 114
+KeyUp "Right", 1
+Delay 63
+KeyDown "Left", 1
+Delay 146
+KeyUp "Left", 1
+Delay 20
+KeyDown "Right", 1
+Delay 93
+KeyUp "Right", 1
+Delay 49
+KeyDown "Left", 1
+Delay 50
+KeyUp "Left", 1
+Delay 128
+KeyDown "Right", 1
+Delay 50
+KeyUp "Right", 1
+Delay 112
+KeyDown "Left", 1
+Delay 90
+KeyUp "Left", 1
+Delay 35
+KeyDown "D", 1
+Delay 94
+KeyUp "D", 1
+Delay 79
+KeyDown "D", 1
+Delay 110
+KeyUp "D", 1
+Delay 71
+KeyDown "D", 1
+Delay 96
+KeyUp "D", 1
+Delay 73
+KeyDown "D", 1
+Delay 92
+KeyUp "D", 1
+Delay 81
+KeyDown "D", 1
+Delay 94
+KeyUp "D", 1
+Delay 45
+KeyDown "Right", 1
+Delay 497
+Delay 32
+KeyDown "A", 1
+Delay 66
+KeyUp "Right", 1
+Delay 34
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 56
+KeyDown "A", 1
+Delay 129
+KeyUp "A", 1
+Delay 317
+KeyDown "Left", 1
+Delay 95
+KeyDown "A", 1
+Delay 67
+KeyUp "Left", 1
+Delay 42
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 75
+KeyDown "A", 1
+Delay 116
+KeyUp "A", 1
+Delay 20
+KeyDown "A", 1
+Delay 164
+KeyUp "A", 1
+Delay 116
+KeyDown "Right", 1
+Delay 68
+KeyDown "A", 1
+Delay 63
+KeyUp "Right", 1
+Delay 42
+KeyUp "A", 1
+Delay 61
+KeyDown "A", 1
+Delay 106
+KeyUp "A", 1
+Delay 58
+KeyDown "A", 1
+Delay 122
+KeyUp "A", 1
+Delay 278
+KeyDown "Left", 1
+Delay 188
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 11
+KeyUp "Left", 1
+Delay 65
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 50
+KeyDown "A", 1
+Delay 119
+KeyUp "A", 1
+Delay 74
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 299
+KeyDown "Left", 1
+Delay 112
+KeyUp "Left", 1
+Delay 420
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 82
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 51
+KeyDown "A", 1
+Delay 118
+KeyUp "A", 1
+Delay 1027
+KeyDown "F9", 1
+Delay 53
+KeyUp "F9", 1
+Delay 88
+KeyDown "F9", 1
+Delay 70
+KeyUp "F9", 1
+Delay 68
+KeyDown "F9", 1
+Delay 71
+KeyUp "F9", 1
+Delay 68
+KeyDown "F9", 1
+Delay 66
+KeyUp "F9", 1
+Delay 90
+KeyDown "F9", 1
+Delay 93
+KeyUp "F9", 1
+Delay 218
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 76
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 114
+KeyUp "A", 1
+Delay 286
+KeyDown "D", 1
+Delay 77
+KeyUp "D", 1
+Delay 85
+KeyDown "D", 1
+Delay 81
+KeyUp "D", 1
+Delay 82
+KeyDown "D", 1
+Delay 80
+KeyUp "D", 1
+Delay 78
+KeyDown "D", 1
+Delay 68
+KeyUp "D", 1
+Delay 91
+KeyDown "D", 1
+Delay 66
+KeyUp "D", 1
+Delay 89
+KeyDown "D", 1
+Delay 87
+KeyUp "D", 1
+Delay 195
+KeyDown "A", 1
+Delay 69
+KeyUp "A", 1
+Delay 91
+KeyDown "A", 1
+Delay 87
+KeyUp "A", 1
+Delay 94
+KeyDown "A", 1
+Delay 82
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 93
+KeyDown "Left", 1
+Delay 189
+KeyUp "Left", 1
+Delay 26
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 85
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 71
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 500
+KeyDown "Right", 1
+Delay 111
+KeyUp "Right", 1
+Delay 18
+KeyDown "Q", 1
+Delay 105
+KeyUp "Q", 1
+Delay 54
+KeyDown "Q", 1
+Delay 88
+KeyUp "Q", 1
+Delay 88
+KeyDown "Q", 1
+Delay 77
+KeyUp "Q", 1
+Delay 62
+KeyDown "Q", 1
+Delay 95
+KeyUp "Q", 1
+Delay 186
+KeyDown "Left", 1
+Delay 149
+KeyDown "A", 1
+Delay 71
+KeyUp "Left", 1
+Delay 27
+KeyUp "A", 1
+Delay 84
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 75
+KeyDown "A", 1
+Delay 97
+KeyUp "A", 1
+Delay 21
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 111
+KeyDown "Up", 1
+Delay 145
+KeyDown "X", 1
+Delay 240
+KeyUp "X", 1
+Delay 59
+KeyDown "X", 1
+Delay 58
+KeyUp "X", 1
+Delay 40
+KeyUp "Up", 1
+Delay 149
+KeyDown "Left", 1
+Delay 143
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 61
+KeyDown "A", 1
+Delay 113
+KeyUp "A", 1
+Delay 187
+KeyUp "Left", 1
+Delay 550
+KeyDown "Left", 1
+Delay 500
+Delay 32
+KeyDown "Left", 1
+Delay 35
+Delay 1
+KeyUp "Left", 1
+Delay 34
+KeyDown "Right", 1
+Delay 188
+KeyDown "X", 1
+Delay 69
+KeyUp "X", 1
+Delay 66
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 121
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 13
+KeyUp "Right", 1
+Delay 90
+KeyDown "A", 1
+Delay 66
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 73
+KeyUp "A", 1
+Delay 96
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 20
+KeyDown "Right", 1
+Delay 191
+KeyDown "X", 1
+Delay 68
+KeyUp "X", 1
+Delay 111
+KeyDown "X", 1
+Delay 72
+KeyUp "X", 1
+Delay 63
+KeyDown "X", 1
+Delay 111
+KeyUp "X", 1
+Delay 49
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 69
+KeyUp "Right", 1
+Delay 121
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 110
+KeyUp "A", 1
+Delay 6
+KeyDown "Right", 1
+Delay 487
+Delay 31
+Delay 41
+Delay 28
+Delay 36
+Delay 27
+Delay 35
+Delay 38
+Delay 29
+Delay 33
+Delay 32
+Delay 34
+Delay 38
+Delay 33
+Delay 26
+Delay 36
+Delay 35
+Delay 34
+Delay 21
+KeyDown "A", 1
+Delay 52
+KeyUp "Right", 1
+Delay 37
+KeyUp "A", 1
+Delay 82
+KeyDown "A", 1
+Delay 73
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 93
+KeyUp "A", 1
+Delay 238
+KeyDown "Left", 1
+Delay 98
+KeyDown "X", 1
+Delay 58
+KeyUp "X", 1
+Delay 76
+KeyDown "X", 1
+Delay 98
+KeyUp "X", 1
+Delay 172
+KeyUp "Left", 1
+Delay 102
+KeyDown "A", 1
+Delay 1
+KeyDown "Right", 1
+Delay 93
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 64
+KeyUp "Right", 1
+Delay 33
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 114
+KeyUp "A", 1
+Delay 319
+KeyDown "Right", 1
+Delay 113
+KeyDown "X", 1
+Delay 68
+KeyUp "X", 1
+Delay 107
+KeyDown "X", 1
+Delay 76
+KeyUp "X", 1
+Delay 88
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 59
+KeyUp "Right", 1
+Delay 1
+KeyDown "A", 1
+Delay 120
+KeyUp "A", 1
+Delay 35
+KeyDown "Right", 1
+Delay 182
+KeyDown "X", 1
+Delay 66
+KeyUp "X", 1
+Delay 78
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 74
+KeyDown "X", 1
+Delay 71
+KeyUp "X", 1
+Delay 68
+KeyDown "X", 1
+Delay 92
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 75
+KeyUp "X", 1
+Delay 52
+KeyDown "X", 1
+Delay 105
+KeyUp "X", 1
+Delay 1185
+KeyUp "Right", 1
+Delay 23
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 71
+KeyDown "Right", 1
+Delay 8
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 108
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 399
+KeyUp "A", 1
+Delay 113
+KeyDown "Down", 1
+Delay 40
+KeyUp "Right", 1
+Delay 19
+KeyDown "Alt", 1
+Delay 91
+KeyUp "Alt", 1
+Delay 58
+KeyDown "Alt", 1
+Delay 133
+KeyUp "Alt", 1
+Delay 29
+KeyDown "Right", 1
+Delay 47
+KeyUp "Down", 1
+Delay 403
+KeyDown "X", 1
+Delay 88
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 193
+KeyUp "Right", 1
+Delay 69
+KeyDown "Left", 1
+Delay 2
+KeyUp "X", 1
+Delay 97
+KeyDown "A", 1
+Delay 79
+KeyUp "A", 1
+Delay 71
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 96
+KeyUp "A", 1
+Delay 272
+KeyDown "X", 1
+Delay 67
+KeyUp "X", 1
+Delay 78
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 65
+KeyDown "X", 1
+Delay 77
+KeyUp "X", 1
+Delay 89
+KeyDown "A", 1
+Delay 68
+KeyUp "A", 1
+Delay 104
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 11
+KeyUp "Left", 1
+Delay 95
+KeyUp "A", 1
+Delay 23
+KeyDown "Left", 1
+Delay 29
+KeyDown "A", 1
+Delay 121
+KeyUp "A", 1
+Delay 98
+KeyDown "X", 1
+Delay 89
+KeyUp "X", 1
+Delay 74
+KeyDown "X", 1
+Delay 80
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 110
+KeyUp "X", 1
+Delay 139
+KeyDown "Alt", 1
+Delay 83
+KeyUp "Alt", 1
+Delay 102
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 66
+KeyDown "A", 1
+Delay 125
+KeyUp "A", 1
+Delay 60
+KeyDown "X", 1
+Delay 87
+KeyUp "X", 1
+Delay 50
+KeyDown "X", 1
+Delay 103
+KeyUp "X", 1
+Delay 51
+KeyDown "X", 1
+Delay 99
+KeyUp "X", 1
+Delay 143
+KeyDown "Alt", 1
+Delay 79
+KeyUp "Alt", 1
+Delay 111
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 85
+KeyUp "A", 1
+Delay 93
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 107
+KeyDown "X", 1
+Delay 65
+KeyUp "X", 1
+Delay 91
+KeyDown "X", 1
+Delay 92
+KeyUp "X", 1
+Delay 249
+KeyDown "Alt", 1
+Delay 87
+KeyUp "Alt", 1
+Delay 98
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 1
+KeyUp "Left", 1
+Delay 69
+KeyUp "A", 1
+Delay 85
+KeyDown "A", 1
+Delay 36
+KeyDown "Left", 1
+Delay 58
+KeyUp "A", 1
+Delay 52
+KeyDown "A", 1
+Delay 124
+KeyUp "A", 1
+Delay 208
+KeyDown "Alt", 1
+Delay 153
+KeyUp "Alt", 1
+Delay 29
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 73
+KeyDown "X", 1
+Delay 100
+KeyUp "X", 1
+Delay 501
+KeyDown "Alt", 1
+Delay 160
+KeyUp "Alt", 1
+Delay 1400
+KeyUp "Left", 1
+Delay 90
+KeyDown "Right", 1
+Delay 17
+KeyDown "X", 1
+Delay 258
+KeyUp "X", 1
+Delay 77
+KeyDown "X", 1
+Delay 104
+KeyUp "X", 1
+Delay 76
+KeyDown "X", 1
+Delay 104
+KeyUp "X", 1
+Delay 196
+KeyUp "Right", 1
+Delay 21
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 80
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 107
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 2
+KeyDown "Right", 1
+Delay 104
+KeyUp "A", 1
+Delay 501
+KeyDown "Right", 1
+Delay 34
+Delay 28
+KeyDown "Right", 1
+Delay 34
+Delay 34
+KeyDown "Right", 1
+Delay 38
+Delay 26
+KeyDown "Right", 1
+Delay 33
+Delay 8
+KeyDown "X", 1
+Delay 91
+KeyUp "X", 1
+Delay 30
+KeyUp "Right", 1
+Delay 131
+KeyDown "Left", 1
+Delay 498
+Delay 35
+KeyDown "Left", 1
+Delay 35
+Delay 30
+KeyDown "Left", 1
+Delay 33
+Delay 34
+KeyDown "Left", 1
+Delay 14
+KeyDown "Right", 1
+Delay 24
+KeyUp "Left", 1
+Delay 129
+KeyUp "Right", 1
+Delay 102
+KeyDown "Up", 1
+Delay 130
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 80
+KeyUp "X", 1
+Delay 69
+KeyUp "Up", 1
+Delay 167
+KeyDown "Left", 1
+Delay 8
+KeyUp "Left", 1
+Delay 20
+KeyDown "Right", 1
+Delay 88
+KeyDown "A", 1
+Delay 62
+KeyUp "Right", 1
+Delay 22
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 82
+KeyDown "A", 1
+Delay 116
+KeyUp "A", 1
+Delay 223
+KeyDown "Right", 1
+Delay 197
+KeyDown "Left", 1
+Delay 1
+KeyUp "Right", 1
+Delay 88
+KeyDown "A", 1
+Delay 82
+KeyUp "A", 1
+Delay 52
+KeyUp "Left", 1
+Delay 20
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 30
+KeyDown "A", 1
+Delay 43
+KeyUp "A", 1
+Delay 505
+KeyDown "Right", 1
+Delay 99
+KeyUp "Right", 1
+Delay 80
+KeyDown "Ctrl", 1
+Delay 65
+KeyUp "Ctrl", 1
+Delay 80
+KeyDown "Ctrl", 1
+Delay 70
+KeyUp "Ctrl", 1
+Delay 89
+KeyDown "Ctrl", 1
+Delay 89
+KeyUp "Ctrl", 1
+Delay 71
+KeyDown "Ctrl", 1
+Delay 125
+KeyUp "Ctrl", 1
+Delay 20
+KeyDown "Ctrl", 1
+Delay 88
+KeyDown "Right", 1
+Delay 38
+KeyUp "Ctrl", 1
+Delay 497
+KeyDown "Right", 1
+Delay 37
+Delay 12
+KeyUp "Right", 1
+Delay 135
+KeyDown "Right", 1
+Delay 100
+KeyUp "Right", 1
+Delay 46
+KeyDown "Q", 1
+Delay 33
+KeyUp "Q", 1
+Delay 70
+KeyDown "Q", 1
+Delay 103
+KeyUp "Q", 1
+Delay 69
+KeyDown "Q", 1
+Delay 86
+KeyUp "Q", 1
+Delay 86
+KeyDown "Q", 1
+Delay 58
+KeyUp "Q", 1
+Delay 76
+KeyDown "Q", 1
+Delay 86
+KeyUp "Q", 1
+Delay 66
+KeyDown "Q", 1
+Delay 133
+KeyUp "Q", 1
+Delay 83
+KeyDown "Right", 1
+Delay 100
+KeyUp "Right", 1
+Delay 68
+KeyDown "Left", 1
+Delay 238
+KeyDown "A", 1
+Delay 37
+KeyUp "Left", 1
+Delay 65
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 101
+KeyUp "A", 1
+Delay 64
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 330
+KeyDown "Left", 1
+Delay 89
+KeyDown "A", 1
+Delay 33
+KeyUp "Left", 1
+Delay 82
+KeyUp "A", 1
+Delay 59
+KeyDown "A", 1
+Delay 128
+KeyUp "A", 1
+Delay 233
+KeyDown "Left", 1
+Delay 217
+KeyUp "Left", 1
+Delay 20
+KeyDown "H", 1
+Delay 108
+KeyUp "H", 1
+Delay 69
+KeyDown "H", 1
+Delay 74
+KeyUp "H", 1
+Delay 59
+KeyDown "H", 1
+Delay 94
+KeyUp "H", 1
+Delay 40
+KeyDown "H", 1
+Delay 103
+KeyUp "H", 1
+Delay 34
+KeyDown "H", 1
+Delay 90
+KeyUp "H", 1
+Delay 60
+KeyDown "Left", 1
+Delay 121
+KeyUp "Left", 1
+Delay 51
+KeyDown "A", 1
+Delay 67
+KeyUp "A", 1
+Delay 96
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 59
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 38
+KeyDown "A", 1
+Delay 60
+KeyDown "Right", 1
+Delay 63
+KeyUp "A", 1
+Delay 191
+KeyUp "Right", 1
+Delay 30
+KeyDown "D", 1
+Delay 106
+KeyUp "D", 1
+Delay 53
+KeyDown "D", 1
+Delay 101
+KeyUp "D", 1
+Delay 77
+KeyDown "D", 1
+Delay 100
+KeyUp "D", 1
+Delay 64
+KeyDown "D", 1
+Delay 86
+KeyUp "D", 1
+Delay 79
+KeyDown "D", 1
+Delay 81
+KeyUp "D", 1
+Delay 74
+KeyDown "D", 1
+Delay 105
+KeyUp "D", 1
+Delay 60
+KeyDown "D", 1
+Delay 112
+KeyUp "D", 1
+Delay 67
+KeyDown "D", 1
+Delay 113
+KeyUp "D", 1
+Delay 187
+KeyDown "Left", 1
+Delay 183
+KeyDown "A", 1
+Delay 65
+KeyUp "Left", 1
+Delay 52
+KeyUp "A", 1
+Delay 51
+KeyDown "A", 1
+Delay 94
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 113
+KeyUp "A", 1
+Delay 60
+KeyDown "A", 1
+Delay 117
+KeyUp "A", 1
+Delay 157
+KeyDown "Right", 1
+Delay 156
+KeyDown "A", 1
+Delay 27
+KeyUp "Right", 1
+Delay 88
+KeyUp "A", 1
+Delay 71
+KeyDown "A", 1
+Delay 82
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 122
+KeyUp "A", 1
+Delay 297
+KeyDown "Left", 1
+Delay 151
+KeyDown "A", 1
+Delay 70
+KeyUp "Left", 1
+Delay 29
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 49
+KeyDown "A", 1
+Delay 120
+KeyUp "A", 1
+Delay 114
+KeyDown "Right", 1
+Delay 386
+KeyDown "A", 1
+Delay 28
+KeyUp "Right", 1
+Delay 69
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 117
+KeyUp "A", 1
+Delay 51
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 318
+KeyDown "Left", 1
+Delay 86
+KeyDown "A", 1
+Delay 44
+KeyUp "Left", 1
+Delay 83
+KeyUp "A", 1
+Delay 207
+KeyDown "D", 1
+Delay 89
+KeyUp "D", 1
+Delay 83
+KeyDown "D", 1
+Delay 98
+KeyUp "D", 1
+Delay 87
+KeyDown "D", 1
+Delay 87
+KeyUp "D", 1
+Delay 55
+KeyDown "D", 1
+Delay 119
+KeyUp "D", 1
+Delay 58
+KeyDown "D", 1
+Delay 147
+KeyUp "D", 1
+Delay 23
+KeyDown "D", 1
+Delay 109
+KeyUp "D", 1
+Delay 17
+KeyDown "D", 1
+Delay 143
+KeyUp "D", 1
+Delay 214
+KeyDown "A", 1
+Delay 60
+KeyUp "A", 1
+Delay 87
+KeyDown "A", 1
+Delay 74
+KeyUp "A", 1
+Delay 92
+KeyDown "A", 1
+Delay 107
+KeyUp "A", 1
+Delay 80
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 95
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 110
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 108
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 97
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 100
+KeyDown "Left", 1
+Delay 445
+KeyDown "A", 1
+Delay 113
+KeyUp "Left", 1
+Delay 1
+KeyUp "A", 1
+Delay 95
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 31
+KeyDown "A", 1
+Delay 143
+KeyUp "A", 1
+Delay 226
+KeyDown "D", 1
+Delay 91
+KeyUp "D", 1
+Delay 88
+KeyDown "D", 1
+Delay 89
+KeyUp "D", 1
+Delay 61
+KeyDown "D", 1
+Delay 118
+KeyUp "D", 1
+Delay 55
+KeyDown "D", 1
+Delay 106
+KeyUp "D", 1
+Delay 49
+KeyDown "D", 1
+Delay 131
+KeyUp "D", 1
+Delay 213
+KeyDown "Left", 1
+Delay 397
+KeyDown "A", 1
+Delay 41
+KeyUp "Left", 1
+Delay 58
+KeyUp "A", 1
+Delay 108
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 80
+KeyDown "A", 1
+Delay 106
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 122
+KeyUp "A", 1
+Delay 239
+KeyDown "Left", 1
+Delay 176
+KeyUp "Left", 1
+Delay 11
+KeyDown "Right", 1
+Delay 49
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 61
+KeyUp "Right", 1
+Delay 2
+KeyDown "A", 1
+Delay 116
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 114
+KeyDown "Right", 1
+Delay 128
+KeyDown "Left", 1
+Delay 12
+KeyUp "Right", 1
+Delay 169
+KeyDown "A", 1
+Delay 67
+KeyUp "Left", 1
+Delay 43
+KeyUp "A", 1
+Delay 46
+KeyDown "A", 1
+Delay 131
+KeyUp "A", 1
+Delay 65
+KeyDown "A", 1
+Delay 107
+KeyUp "A", 1
+Delay 25
+KeyDown "Right", 1
+Delay 372
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 51
+KeyDown "A", 1
+Delay 114
+KeyUp "Right", 1
+Delay 21
+KeyUp "A", 1
+Delay 48
+KeyDown "A", 1
+Delay 117
+KeyUp "A", 1
+Delay 13
+KeyDown "A", 1
+Delay 360
+KeyDown "Left", 1
+Delay 124
+KeyUp "A", 1
+Delay 44
+KeyUp "Left", 1
+Delay 181
+KeyDown "Left", 1
+Delay 413
+KeyUp "Left", 1
+Delay 15
+KeyDown "D", 1
+Delay 111
+KeyUp "D", 1
+Delay 73
+KeyDown "D", 1
+Delay 103
+KeyUp "D", 1
+Delay 69
+KeyDown "D", 1
+Delay 98
+KeyUp "D", 1
+Delay 65
+KeyDown "D", 1
+Delay 96
+KeyUp "D", 1
+Delay 185
+KeyDown "Left", 1
+Delay 449
+KeyUp "Left", 1
+Delay 32
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 113
+KeyUp "A", 1
+Delay 138
+KeyDown "Right", 1
+Delay 284
+KeyDown "A", 1
+Delay 86
+KeyUp "A", 1
+Delay 31
+KeyUp "Right", 1
+Delay 52
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 126
+KeyUp "A", 1
+Delay 56
+KeyDown "A", 1
+Delay 1
+KeyDown "Left", 1
+Delay 90
+KeyUp "A", 1
+Delay 496
+KeyDown "Left", 1
+Delay 32
+KeyDown "T", 1
+Delay 12
+KeyUp "Left", 1
+Delay 97
+KeyUp "T", 1
+Delay 60
+KeyDown "T", 1
+Delay 81
+KeyUp "T", 1
+Delay 56
+KeyDown "T", 1
+Delay 104
+KeyUp "T", 1
+Delay 1
+KeyDown "Right", 1
+Delay 322
+KeyUp "Right", 1
+Delay 13
+KeyDown "Left", 1
+Delay 212
+KeyDown "A", 1
+Delay 49
+KeyUp "Left", 1
+Delay 43
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 187
+KeyDown "Left", 1
+Delay 61
+KeyDown "D", 1
+Delay 52
+KeyUp "Left", 1
+Delay 60
+KeyUp "D", 1
+Delay 75
+KeyDown "D", 1
+Delay 83
+KeyUp "D", 1
+Delay 97
+KeyDown "D", 1
+Delay 106
+KeyUp "D", 1
+Delay 65
+KeyDown "D", 1
+Delay 79
+KeyUp "D", 1
+Delay 70
+KeyDown "D", 1
+Delay 103
+KeyUp "D", 1
+Delay 223
+KeyDown "Left", 1
+Delay 13
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 60
+KeyUp "Left", 1
+Delay 52
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 97
+KeyDown "A", 1
+Delay 77
+KeyDown "Left", 1
+Delay 14
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 59
+KeyUp "Left", 1
+Delay 82
+KeyUp "A", 1
+Delay 151
+KeyDown "Right", 1
+Delay 243
+KeyDown "A", 1
+Delay 68
+KeyUp "A", 1
+Delay 19
+KeyUp "Right", 1
+Delay 69
+KeyDown "A", 1
+Delay 33
+KeyDown "Left", 1
+Delay 81
+KeyUp "A", 1
+Delay 504
+KeyDown "Left", 1
+Delay 24
+Delay 39
+KeyDown "Left", 1
+Delay 39
+Delay 2
+KeyDown "A", 1
+Delay 53
+KeyUp "Left", 1
+Delay 24
+KeyUp "A", 1
+Delay 65
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 65
+KeyDown "A", 1
+Delay 108
+KeyUp "A", 1
+Delay 345
+KeyDown "Right", 1
+Delay 148
+KeyUp "Right", 1
+Delay 58
+KeyDown "D", 1
+Delay 90
+KeyUp "D", 1
+Delay 84
+KeyDown "D", 1
+Delay 109
+KeyUp "D", 1
+Delay 73
+KeyDown "D", 1
+Delay 116
+KeyUp "D", 1
+Delay 67
+KeyDown "D", 1
+Delay 109
+KeyUp "D", 1
+Delay 374
+KeyDown "A", 1
+Delay 73
+KeyUp "A", 1
+Delay 97
+KeyDown "A", 1
+Delay 80
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 114
+KeyUp "A", 1
+Delay 161
+KeyDown "Left", 1
+Delay 296
+KeyDown "A", 1
+Delay 14
+KeyUp "Left", 1
+Delay 64
+KeyUp "A", 1
+Delay 89
+KeyDown "A", 1
+Delay 89
+KeyDown "Left", 1
+Delay 8
+KeyUp "A", 1
+Delay 54
+KeyDown "A", 1
+Delay 138
+KeyUp "A", 1
+Delay 144
+KeyUp "Left", 1
+Delay 73
+KeyDown "Right", 1
+Delay 184
+KeyUp "Right", 1
+Delay 54
+KeyDown "Left", 1
+Delay 294
+KeyUp "Left", 1
+Delay 7
+KeyUp "X", 1
+Delay 131
+KeyDown "Right", 1
+Delay 103
+KeyDown "A", 1
+Delay 55
+KeyUp "Right", 1
+Delay 2
+KeyDown "Left", 1
+Delay 20
+KeyUp "A", 1
+Delay 92
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 51
+KeyUp "Left", 1
+Delay 39
+KeyDown "A", 1
+Delay 97
+KeyUp "A", 1
+Delay 84
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 60
+KeyDown "A", 1
+Delay 100
+KeyDown "Right", 1
+Delay 7
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 141
+KeyUp "A", 1
+Delay 68
+KeyUp "Right", 1
+Delay 176
+KeyDown "Right", 1
+Delay 158
+KeyUp "Right", 1
+Delay 120
+KeyDown "Left", 1
+Delay 20
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 67
+KeyUp "Left", 1
+Delay 30
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 91
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 133
+KeyUp "A", 1
+Delay 227
+KeyDown "Up", 1
+Delay 120
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 72
+KeyDown "X", 1
+Delay 189
+KeyUp "X", 1
+Delay 32
+KeyDown "X", 1
+Delay 89
+KeyUp "X", 1
+Delay 32
+KeyUp "Up", 1
+Delay 164
+KeyDown "Left", 1
+Delay 24
+KeyUp "Left", 1
+Delay 14
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 85
+KeyDown "A", 1
+Delay 92
+KeyUp "A", 1
+Delay 80
+KeyDown "A", 1
+Delay 104
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 342
+KeyUp "A", 1
+Delay 180
+KeyDown "Right", 1
+Delay 136
+KeyDown "X", 1
+Delay 92
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 90
+KeyUp "X", 1
+Delay 110
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 13
+KeyUp "Right", 1
+Delay 64
+KeyDown "A", 1
+Delay 103
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 161
+KeyUp "A", 1
+Delay 47
+KeyDown "Right", 1
+Delay 90
+KeyDown "X", 1
+Delay 115
+KeyUp "X", 1
+Delay 39
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 82
+KeyDown "X", 1
+Delay 88
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 1800
+KeyUp "Right", 1
+Delay 58
+KeyDown "Right", 1
+Delay 150
+KeyDown "A", 1
+Delay 99
+KeyUp "Right", 1
+Delay 40
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 83
+KeyDown "Left", 1
+Delay 99
+KeyUp "Left", 1
+Delay 40
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 93
+KeyDown "Left", 1
+Delay 250
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 35
+KeyUp "Left", 1
+Delay 800
+KeyDown "Right", 1
+Delay 222
+KeyDown "X", 1
+Delay 91
+KeyUp "X", 1
+Delay 76
+KeyDown "X", 1
+Delay 91
+KeyUp "X", 1
+Delay 61
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 81
+KeyDown "X", 1
+Delay 98
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 169
+KeyUp "X", 1
+Delay 93
+KeyDown "X", 1
+Delay 132
+KeyUp "X", 1
+Delay 265
+KeyDown "Down", 1
+Delay 59
+KeyDown "Alt", 1
+Delay 1
+KeyUp "Right", 1
+Delay 100
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 80
+KeyUp "Alt", 1
+Delay 70
+KeyDown "Alt", 1
+Delay 170
+KeyUp "Alt", 1
+Delay 119
+KeyDown "Right", 1
+Delay 21
+KeyUp "Down", 1
+Delay 367
+KeyDown "X", 1
+Delay 75
+KeyUp "X", 1
+Delay 77
+KeyDown "X", 1
+Delay 71
+KeyUp "Right", 1
+Delay 1
+KeyUp "X", 1
+Delay 59
+KeyDown "Right", 1
+Delay 500
+KeyUp "Right", 1
+Delay 30
+KeyDown "Left", 1
+Delay 183
+KeyDown "A", 1
+Delay 70
+KeyUp "A", 1
+Delay 100
+KeyDown "A", 1
+Delay 94
+KeyUp "A", 1
+Delay 14
+KeyUp "Left", 1
+Delay 52
+KeyDown "A", 1
+Delay 47
+KeyDown "Left", 1
+Delay 47
+KeyUp "A", 1
+Delay 504
+KeyDown "Left", 1
+Delay 29
+Delay 29
+KeyDown "Left", 1
+Delay 36
+Delay 27
+KeyDown "Left", 1
+Delay 37
+KeyUp "Left", 1
+Delay 1
+KeyDown "R", 1
+Delay 103
+KeyUp "R", 1
+Delay 77
+KeyDown "R", 1
+Delay 84
+KeyUp "R", 1
+Delay 65
+KeyDown "R", 1
+Delay 123
+KeyUp "R", 1
+Delay 12
+KeyDown "R", 1
+Delay 94
+KeyUp "R", 1
+Delay 81
+KeyDown "Right", 1
+Delay 501
+Delay 35
+KeyDown "Right", 1
+Delay 35
+Delay 30
+KeyDown "Right", 1
+Delay 11
+KeyDown "X", 1
+Delay 99
+KeyUp "X", 1
+Delay 68
+KeyDown "X", 1
+Delay 102
+KeyUp "X", 1
+Delay 81
+KeyUp "Right", 1
+Delay 61
+KeyDown "Left", 1
+Delay 178
+KeyDown "X", 1
+Delay 80
+KeyUp "X", 1
+Delay 73
+KeyDown "X", 1
+Delay 88
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 78
+KeyUp "X", 1
+Delay 75
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 53
+KeyUp "Left", 1
+Delay 25
+KeyDown "A", 1
+Delay 106
+KeyUp "A", 1
+Delay 4
+KeyDown "Left", 1
+Delay 42
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 61
+KeyDown "A", 1
+Delay 112
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 55
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 138
+KeyDown "X", 1
+Delay 58
+KeyUp "X", 1
+Delay 65
+KeyDown "X", 1
+Delay 70
+KeyUp "X", 1
+Delay 103
+KeyDown "X", 1
+Delay 54
+KeyUp "X", 1
+Delay 68
+KeyDown "X", 1
+Delay 48
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 72
+KeyUp "X", 1
+Delay 168
+KeyUp "Left", 1
+Delay 139
+KeyDown "G", 1
+Delay 37
+Delay 1
+KeyUp "G", 1
+Delay 69
+KeyDown "G", 1
+Delay 71
+KeyUp "G", 1
+Delay 1
+KeyDown "G", 1
+Delay 112
+Delay 418
+KeyDown "G", 1
+Delay 2
+KeyUp "G", 1
+Delay 115
+KeyDown "Left", 1
+Delay 483
+KeyDown "X", 1
+Delay 83
+KeyUp "X", 1
+Delay 64
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 61
+KeyDown "X", 1
+Delay 138
+KeyUp "X", 1
+Delay 182
+KeyDown "H", 1
+Delay 27
+KeyUp "Left", 1
+Delay 68
+KeyUp "H", 1
+Delay 75
+KeyDown "H", 1
+Delay 73
+KeyUp "H", 1
+Delay 75
+KeyDown "H", 1
+Delay 65
+KeyUp "H", 1
+Delay 43
+KeyDown "H", 1
+Delay 82
+KeyUp "H", 1
+Delay 21
+KeyDown "H", 1
+Delay 60
+KeyDown "Left", 1
+Delay 50
+KeyUp "H", 1
+Delay 249
+KeyDown "X", 1
+Delay 55
+KeyUp "X", 1
+Delay 97
+KeyDown "X", 1
+Delay 77
+KeyUp "X", 1
+Delay 141
+KeyUp "Left", 1
+Delay 2
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 82
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 74
+KeyDown "A", 1
+Delay 85
+KeyUp "A", 1
+Delay 92
+KeyDown "A", 1
+Delay 5
+KeyDown "Left", 1
+Delay 70
+KeyUp "A", 1
+Delay 199
+KeyDown "X", 1
+Delay 87
+KeyUp "X", 1
+Delay 72
+KeyDown "X", 1
+Delay 64
+KeyUp "X", 1
+Delay 78
+KeyDown "X", 1
+Delay 89
+KeyUp "X", 1
+Delay 62
+KeyDown "X", 1
+Delay 118
+KeyUp "X", 1
+Delay 219
+KeyDown "Alt", 1
+Delay 118
+KeyUp "Alt", 1
+Delay 354
+KeyDown "Down", 1
+Delay 86
+KeyUp "Left", 1
+Delay 73
+KeyDown "Alt", 1
+Delay 113
+KeyUp "Alt", 1
+Delay 58
+KeyDown "Alt", 1
+Delay 132
+KeyUp "Alt", 1
+Delay 1
+KeyDown "Right", 1
+Delay 57
+KeyUp "Down", 1
+Delay 52
+KeyDown "X", 1
+Delay 78
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 90
+KeyUp "X", 1
+Delay 475
+KeyUp "Right", 1
+Delay 111
+KeyDown "Right", 1
+Delay 252
+KeyUp "Right", 1
+Delay 113
+KeyDown "Right", 1
+Delay 249
+KeyUp "Right", 1
+Delay 64
+KeyDown "Up", 1
+Delay 90
+KeyDown "X", 1
+Delay 69
+KeyUp "X", 1
+Delay 72
+KeyDown "X", 1
+Delay 95
+KeyUp "X", 1
+Delay 23
+KeyDown "Right", 1
+Delay 57
+KeyUp "Up", 1
+Delay 392
+KeyUp "Right", 1
+Delay 70
+KeyDown "Left", 1
+Delay 110
+KeyUp "Left", 1
+Delay 71
+KeyDown "E", 1
+Delay 89
+KeyUp "E", 1
+Delay 92
+KeyDown "E", 1
+Delay 61
+KeyUp "E", 1
+Delay 84
+KeyDown "E", 1
+Delay 75
+KeyUp "E", 1
+Delay 246
+KeyDown "Left", 1
+Delay 113
+KeyDown "Right", 1
+Delay 18
+KeyUp "Left", 1
+Delay 146
+KeyUp "Right", 1
+Delay 466
+KeyDown "Right", 1
+Delay 133
+KeyDown "A", 1
+Delay 97
+KeyUp "A", 1
+Delay 42
+KeyUp "Right", 1
+Delay 42
+KeyDown "A", 1
+Delay 96
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 109
+KeyUp "A", 1
+Delay 20
+KeyDown "Left", 1
+Delay 391
+KeyDown "Alt", 1
+Delay 77
+KeyUp "Alt", 1
+Delay 111
+KeyUp "Left", 1
+Delay 1
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 91
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 1
+KeyDown "Right", 1
+Delay 97
+KeyUp "A", 1
+Delay 163
+KeyUp "Right", 1
+Delay 52
+KeyDown "Left", 1
+Delay 104
+KeyDown "Alt", 1
+Delay 100
+KeyUp "Alt", 1
+Delay 64
+KeyDown "Alt", 1
+Delay 87
+KeyUp "Alt", 1
+Delay 11
+KeyDown "Down", 1
+Delay 62
+KeyDown "Alt", 1
+Delay 111
+KeyUp "Alt", 1
+Delay 467
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 63
+KeyDown "X", 1
+Delay 44
+KeyUp "Down", 1
+Delay 339
+KeyUp "X", 1
+Delay 68
+KeyDown "Down", 1
+Delay 27
+KeyDown "Alt", 1
+Delay 114
+KeyUp "Alt", 1
+Delay 68
+KeyDown "Alt", 1
+Delay 89
+KeyUp "Alt", 1
+Delay 85
+KeyDown "Alt", 1
+Delay 85
+KeyUp "Alt", 1
+Delay 61
+KeyDown "Alt", 1
+Delay 98
+KeyUp "Alt", 1
+Delay 72
+KeyDown "Alt", 1
+Delay 110
+KeyUp "Alt", 1
+Delay 59
+KeyUp "Left", 1
+Delay 23
+KeyDown "Alt", 1
+Delay 88
+KeyUp "Alt", 1
+Delay 74
+KeyDown "Alt", 1
+Delay 85
+KeyUp "Alt", 1
+Delay 59
+KeyDown "Alt", 1
+Delay 111
+KeyUp "Alt", 1
+Delay 59
+KeyDown "Alt", 1
+Delay 114
+KeyUp "Alt", 1
+Delay 65
+KeyDown "Alt", 1
+Delay 105
+KeyUp "Alt", 1
+Delay 63
+KeyDown "Alt", 1
+Delay 44
+KeyDown "Left", 1
+Delay 68
+KeyUp "Alt", 1
+Delay 63
+KeyDown "Alt", 1
+Delay 71
+KeyUp "Left", 1
+Delay 51
+KeyUp "Alt", 1
+Delay 60
+KeyDown "Alt", 1
+Delay 118
+KeyDown "Left", 1
+Delay 171
+KeyUp "Alt", 1
+Delay 49
+KeyUp "Left", 1
+Delay 1
+KeyDown "X", 1
+Delay 248
+KeyDown "Left", 1
+Delay 20
+KeyUp "X", 1
+Delay 37
+KeyDown "X", 1
+Delay 216
+KeyUp "X", 1
+Delay 266
+KeyUp "Down", 1
+Delay 114
+KeyUp "Left", 1
+Delay 79
+KeyDown "Down", 1
+Delay 75
+KeyDown "Right", 1
+Delay 61
+KeyUp "Down", 1
+Delay 37
+KeyDown "X", 1
+Delay 102
+KeyUp "X", 1
+Delay 65
+KeyDown "X", 1
+Delay 188
+KeyUp "X", 1
+Delay 100
+KeyUp "Right", 1
+Delay 130
+KeyDown "Left", 1
+Delay 122
+KeyDown "Right", 1
+Delay 16
+KeyUp "Left", 1
+Delay 172
+KeyDown "X", 1
+Delay 85
+KeyUp "X", 1
+Delay 73
+KeyDown "X", 1
+Delay 82
+KeyUp "X", 1
+Delay 62
+KeyDown "X", 1
+Delay 7
+KeyUp "Right", 1
+Delay 72
+KeyDown "Left", 1
+Delay 50
+KeyUp "X", 1
+Delay 331
+KeyUp "Left", 1
+Delay 1
+KeyDown "Right", 1
+Delay 86
+KeyUp "Right", 1
+Delay 272
+KeyDown "Up", 1
+Delay 72
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 81
+KeyDown "X", 1
+Delay 64
+KeyUp "Up", 1
+Delay 21
+KeyDown "Left", 1
+Delay 32
+KeyUp "X", 1
+Delay 135
+KeyUp "Left", 1
+Delay 5
+KeyDown "Right", 1
+Delay 117
+KeyUp "Right", 1
+Delay 135
+KeyDown "Right", 1
+Delay 56
+KeyUp "Right", 1
+Delay 70
+KeyDown "A", 1
+Delay 51
+KeyUp "A", 1
+Delay 97
+KeyDown "A", 1
+Delay 62
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 291
+KeyDown "4", 1
+Delay 76
+KeyUp "4", 1
+Delay 72
+KeyDown "4", 1
+Delay 106
+KeyUp "4", 1
+Delay 54
+KeyDown "4", 1
+Delay 80
+KeyUp "4", 1
+Delay 102
+KeyDown "4", 1
+Delay 136
+KeyUp "4", 1
+Delay 190
+KeyDown "Right", 1
+Delay 74
+KeyDown "A", 1
+Delay 27
+KeyUp "Right", 1
+Delay 42
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 91
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 271
+KeyDown "Ctrl", 1
+Delay 77
+KeyUp "Ctrl", 1
+Delay 81
+KeyDown "Ctrl", 1
+Delay 87
+KeyUp "Ctrl", 1
+Delay 72
+KeyDown "Ctrl", 1
+Delay 69
+KeyUp "Ctrl", 1
+Delay 101
+KeyDown "Ctrl", 1
+Delay 74
+KeyUp "Ctrl", 1
+Delay 87
+KeyDown "Ctrl", 1
+Delay 72
+KeyUp "Ctrl", 1
+Delay 77
+KeyDown "Ctrl", 1
+Delay 97
+KeyUp "Ctrl", 1
+Delay 76
+KeyDown "Ctrl", 1
+Delay 118
+KeyUp "Ctrl", 1
+Delay 251
+KeyDown "Q", 1
+Delay 56
+KeyUp "Q", 1
+Delay 90
+KeyDown "Q", 1
+Delay 87
+KeyUp "Q", 1
+Delay 79
+KeyDown "Q", 1
+Delay 105
+KeyUp "Q", 1
+Delay 65
+KeyDown "Q", 1
+Delay 112
+KeyUp "Q", 1
+Delay 69
+KeyDown "Q", 1
+Delay 94
+KeyUp "Q", 1
+Delay 73
+KeyDown "Q", 1
+Delay 80
+KeyUp "Q", 1
+Delay 89
+KeyDown "Q", 1
+Delay 73
+KeyUp "Q", 1
+Delay 91
+KeyDown "Q", 1
+Delay 53
+KeyUp "Q", 1
+Delay 101
+KeyDown "Q", 1
+Delay 39
+KeyUp "Q", 1
+Delay 195
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 67
+KeyUp "A", 1
+Delay 98
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 173
+KeyDown "Left", 1
+Delay 352
+KeyDown "A", 1
+Delay 24
+KeyUp "Left", 1
+Delay 62
+KeyUp "A", 1
+Delay 74
+KeyDown "A", 1
+Delay 91
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 57
+KeyDown "Right", 1
+Delay 25
+KeyUp "A", 1
+Delay 375
+KeyDown "A", 1
+Delay 92
+KeyUp "Right", 1
+Delay 20
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 90
+KeyUp "A", 1
+Delay 86
+KeyDown "A", 1
+Delay 93
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 116
+KeyUp "A", 1
+Delay 232
+KeyDown "Left", 1
+Delay 65
+KeyDown "D", 1
+Delay 18
+KeyUp "Left", 1
+Delay 62
+KeyUp "D", 1
+Delay 79
+KeyDown "D", 1
+Delay 95
+KeyUp "D", 1
+Delay 87
+KeyDown "D", 1
+Delay 59
+KeyUp "D", 1
+Delay 84
+KeyDown "D", 1
+Delay 76
+KeyUp "D", 1
+Delay 84
+KeyDown "D", 1
+Delay 90
+KeyUp "D", 1
+Delay 61
+KeyDown "D", 1
+Delay 100
+KeyUp "D", 1
+Delay 153
+KeyDown "Left", 1
+Delay 317
+KeyDown "A", 1
+Delay 80
+KeyUp "A", 1
+Delay 100
+KeyDown "A", 1
+Delay 1
+KeyUp "Left", 1
+Delay 80
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 62
+KeyDown "A", 1
+Delay 87
+KeyDown "Left", 1
+Delay 24
+KeyUp "A", 1
+Delay 300
+KeyDown "Right", 1
+Delay 13
+KeyUp "Left", 1
+Delay 69
+KeyDown "A", 1
+Delay 90
+KeyUp "Right", 1
+Delay 1
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 85
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 278
+KeyDown "Left", 1
+Delay 148
+KeyDown "A", 1
+Delay 73
+KeyUp "Left", 1
+Delay 10
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 108
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 262
+KeyUp "A", 1
+Delay 243
+KeyDown "Right", 1
+Delay 80
+KeyDown "D", 1
+Delay 54
+KeyUp "Right", 1
+Delay 53
+KeyUp "D", 1
+Delay 78
+KeyDown "D", 1
+Delay 115
+KeyUp "D", 1
+Delay 54
+KeyDown "D", 1
+Delay 94
+KeyUp "D", 1
+Delay 77
+KeyDown "D", 1
+Delay 61
+KeyUp "D", 1
+Delay 225
+KeyDown "Left", 1
+Delay 271
+KeyDown "A", 1
+Delay 94
+KeyUp "A", 1
+Delay 71
+KeyDown "A", 1
+Delay 101
+KeyUp "A", 1
+Delay 75
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 41
+KeyUp "Left", 1
+Delay 53
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 1
+KeyDown "Left", 1
+Delay 68
+KeyDown "A", 1
+Delay 79
+KeyUp "A", 1
+Delay 78
+KeyUp "Left", 1
+Delay 59
+KeyDown "Right", 1
+Delay 173
+KeyDown "A", 1
+Delay 101
+KeyUp "Right", 1
+Delay 1
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 103
+KeyUp "A", 1
+Delay 55
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 170
+KeyDown "Left", 1
+Delay 273
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 92
+KeyDown "A", 1
+Delay 46
+KeyUp "Left", 1
+Delay 43
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 120
+KeyUp "A", 1
+Delay 441
+KeyDown "Right", 1
+Delay 129
+KeyUp "Right", 1
+Delay 1
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 1
+KeyDown "Left", 1
+Delay 87
+KeyDown "A", 1
+Delay 38
+KeyUp "Left", 1
+Delay 50
+KeyUp "A", 1
+Delay 80
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 172
+KeyDown "D", 1
+Delay 88
+KeyUp "D", 1
+Delay 63
+KeyDown "D", 1
+Delay 121
+KeyUp "D", 1
+Delay 57
+KeyDown "D", 1
+Delay 114
+KeyUp "D", 1
+Delay 70
+KeyDown "D", 1
+Delay 100
+KeyUp "D", 1
+Delay 67
+KeyDown "D", 1
+Delay 141
+KeyUp "D", 1
+Delay 153
+KeyDown "A", 1
+Delay 64
+KeyUp "A", 1
+Delay 100
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 112
+KeyDown "A", 1
+Delay 71
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 77
+KeyDown "Left", 1
+Delay 244
+KeyUp "Left", 1
+Delay 1
+KeyDown "A", 1
+Delay 105
+KeyUp "A", 1
+Delay 73
+KeyDown "A", 1
+Delay 88
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 68
+KeyDown "Right", 1
+Delay 316
+KeyDown "A", 1
+Delay 96
+KeyUp "A", 1
+Delay 30
+KeyUp "Right", 1
+Delay 66
+KeyDown "A", 1
+Delay 84
+KeyUp "A", 1
+Delay 72
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 123
+KeyUp "A", 1
+Delay 139
+KeyDown "Left", 1
+Delay 278
+KeyDown "A", 1
+Delay 29
+KeyUp "Left", 1
+Delay 65
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 217
+KeyDown "Right", 1
+Delay 68
+KeyUp "A", 1
+Delay 371
+KeyUp "Right", 1
+Delay 1
+KeyDown "Left", 1
+Delay 160
+KeyDown "Right", 1
+Delay 18
+KeyUp "Left", 1
+Delay 89
+KeyDown "D", 1
+Delay 29
+KeyUp "Right", 1
+Delay 87
+KeyUp "D", 1
+Delay 89
+KeyDown "D", 1
+Delay 1
+KeyDown "Left", 1
+Delay 66
+KeyUp "D", 1
+Delay 82
+KeyDown "D", 1
+Delay 21
+KeyUp "Left", 1
+Delay 59
+KeyUp "D", 1
+Delay 83
+KeyDown "D", 1
+Delay 98
+KeyUp "D", 1
+Delay 56
+KeyDown "Left", 1
+Delay 224
+KeyDown "A", 1
+Delay 56
+KeyUp "A", 1
+Delay 93
+KeyDown "A", 1
+Delay 40
+KeyUp "Left", 1
+Delay 56
+KeyUp "A", 1
+Delay 94
+KeyDown "A", 1
+Delay 4
+KeyDown "Left", 1
+Delay 95
+KeyUp "A", 1
+Delay 70
+KeyDown "A", 1
+Delay 113
+KeyUp "Left", 1
+Delay 5
+KeyUp "A", 1
+Delay 90
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 85
+KeyDown "A", 1
+Delay 45
+KeyDown "Left", 1
+Delay 64
+KeyUp "A", 1
+Delay 402
+KeyDown "A", 1
+Delay 87
+KeyUp "Left", 1
+Delay 2
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 91
+KeyUp "A", 1
+Delay 79
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 203
+KeyDown "Left", 1
+Delay 230
+KeyUp "Left", 1
+Delay 59
+KeyDown "A", 1
+Delay 74
+KeyUp "A", 1
+Delay 94
+KeyDown "A", 1
+Delay 91
+KeyUp "A", 1
+Delay 58
+KeyDown "A", 1
+Delay 122
+KeyUp "A", 1
+Delay 110
+KeyDown "Left", 1
+Delay 118
+KeyUp "Left", 1
+Delay 220
+KeyDown "Up", 1
+Delay 67
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 80
+KeyUp "Up", 1
+Delay 74
+KeyDown "Left", 1
+Delay 70
+KeyDown "A", 1
+Delay 33
+KeyUp "Left", 1
+Delay 79
+KeyUp "A", 1
+Delay 74
+KeyDown "A", 1
+Delay 89
+KeyUp "A", 1
+Delay 76
+KeyDown "A", 1
+Delay 114
+KeyUp "A", 1
+Delay 84
+KeyDown "Right", 1
+Delay 158
+KeyDown "X", 1
+Delay 64
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 85
+KeyUp "X", 1
+Delay 63
+KeyDown "X", 1
+Delay 102
+KeyUp "X", 1
+Delay 39
+KeyDown "X", 1
+Delay 120
+KeyUp "X", 1
+Delay 443
+KeyDown "A", 1
+Delay 72
+KeyUp "A", 1
+Delay 379
+KeyDown "X", 1
+Delay 78
+KeyUp "X", 1
+Delay 69
+KeyDown "X", 1
+Delay 83
+KeyUp "X", 1
+Delay 80
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 47
+KeyDown "X", 1
+Delay 111
+KeyUp "X", 1
+Delay 600
+KeyUp "Right", 1
+Delay 57
+KeyDown "Left", 1
+Delay 105
+KeyDown "A", 1
+Delay 63
+KeyUp "A", 1
+Delay 78
+KeyDown "A", 1
+Delay 67
+KeyUp "A", 1
+Delay 350
+KeyDown "X", 1
+Delay 250
+KeyUp "X", 1
+Delay 88
+KeyUp "Left", 1
+Delay 142
+KeyDown "Right", 1
+Delay 373
+KeyDown "A", 1
+Delay 95
+KeyUp "A", 1
+Delay 64
+KeyDown "A", 1
+Delay 115
+KeyUp "A", 1
+Delay 66
+KeyDown "X", 1
+Delay 98
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 76
+KeyUp "X", 1
+Delay 63
+KeyDown "X", 1
+Delay 98
+KeyUp "X", 1
+Delay 62
+KeyDown "X", 1
+Delay 108
+KeyUp "X", 1
+Delay 24
+KeyDown "X", 1
+Delay 107
+KeyUp "X", 1
+Delay 50
+KeyDown "X", 1
+Delay 94
+KeyUp "X", 1
+Delay 526
+KeyDown "Left", 1
+Delay 7
+KeyUp "Right", 1
+Delay 91
+KeyDown "Down", 1
+Delay 19
+KeyDown "A", 1
+Delay 46
+KeyUp "Left", 1
+Delay 2
+KeyUp "A", 1
+Delay 126
+KeyDown "Alt", 1
+Delay 108
+KeyUp "Alt", 1
+Delay 69
+KeyDown "Alt", 1
+Delay 84
+KeyUp "Alt", 1
+Delay 91
+KeyDown "Alt", 1
+Delay 76
+KeyUp "Alt", 1
+Delay 96
+KeyDown "Alt", 1
+Delay 109
+KeyUp "Alt", 1
+Delay 64
+KeyDown "Right", 1
+Delay 61
+KeyUp "Down", 1
+Delay 69
+KeyUp "Right", 1
+Delay 41
+KeyDown "Down", 1
+Delay 161
+KeyDown "Right", 1
+Delay 63
+KeyUp "Down", 1
+Delay 198
+KeyDown "A", 1
+Delay 99
+KeyUp "A", 1
+Delay 50
+KeyDown "A", 1
+Delay 133
+KeyUp "A", 1
+Delay 59
+KeyDown "X", 1
+Delay 99
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 99
+KeyUp "X", 1
+Delay 57
+KeyDown "X", 1
+Delay 81
+KeyUp "X", 1
+Delay 64
+KeyDown "X", 1
+Delay 107
+KeyUp "X", 1
+Delay 180
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 47
+KeyDown "A", 1
+Delay 111
+KeyUp "A", 1
+Delay 48
+KeyDown "A", 1
+Delay 126
+KeyUp "A", 1
+Delay 44
+KeyDown "A", 1
+Delay 130
+KeyUp "A", 1
+Delay 541
+KeyUp "Right", 1
+Delay 42
+KeyDown "Left", 1
+Delay 292
+KeyDown "X", 1
+Delay 55
+KeyUp "X", 1
+Delay 90
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 23
+KeyDown "X", 1
+Delay 168
+KeyUp "X", 1
+Delay 154
+KeyDown "Alt", 1
+Delay 86
+KeyUp "Alt", 1
+Delay 98
+KeyDown "X", 1
+Delay 77
+KeyUp "X", 1
+Delay 59
+KeyDown "X", 1
+Delay 80
+KeyUp "X", 1
+Delay 60
+KeyDown "X", 1
+Delay 88
+KeyUp "X", 1
+Delay 123
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 77
+KeyDown "A", 1
+Delay 94
+KeyUp "A", 1
+Delay 95
+KeyDown "A", 1
+Delay 54
+KeyUp "A", 1
+Delay 1
+KeyDown "X", 1
+Delay 102
+KeyUp "X", 1
+Delay 73
+KeyDown "X", 1
+Delay 96
+KeyUp "X", 1
+Delay 46
+KeyDown "X", 1
+Delay 102
+KeyUp "X", 1
+Delay 280
+KeyDown "A", 1
+Delay 70
+KeyUp "A", 1
+Delay 93
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 68
+KeyDown "A", 1
+Delay 117
+KeyUp "A", 1
+Delay 128
+KeyDown "X", 1
+Delay 55
+KeyUp "X", 1
+Delay 81
+KeyDown "X", 1
+Delay 82
+KeyUp "X", 1
+Delay 70
+KeyDown "X", 1
+Delay 71
+KeyUp "X", 1
+Delay 270
+KeyDown "A", 1
+Delay 69
+KeyUp "A", 1
+Delay 104
+KeyDown "A", 1
+Delay 63
+KeyUp "A", 1
+Delay 92
+KeyDown "A", 1
+Delay 102
+KeyUp "A", 1
+Delay 131
+KeyDown "X", 1
+Delay 87
+KeyUp "X", 1
+Delay 76
+KeyDown "X", 1
+Delay 94
+KeyUp "X", 1
+Delay 38
+KeyDown "X", 1
+Delay 151
+KeyUp "X", 1
+Delay 138
+KeyDown "A", 1
+Delay 74
+KeyUp "A", 1
+Delay 81
+KeyDown "A", 1
+Delay 98
+KeyUp "A", 1
+Delay 63
+KeyDown "A", 1
+Delay 113
+KeyUp "A", 1
+Delay 131
+KeyDown "X", 1
+Delay 75
+KeyUp "X", 1
+Delay 66
+KeyDown "X", 1
+Delay 84
+KeyUp "X", 1
+Delay 56
+KeyDown "X", 1
+Delay 103
+KeyUp "X", 1
+Delay 71
+KeyDown "X", 1
+Delay 95
+KeyUp "X", 1
+Delay 672
+KeyUp "Left", 1
+Delay 587
+'==========以上是按键精灵录制的内容==========

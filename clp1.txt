@@ -1,0 +1,740 @@
+'==========以下是按键精灵录制的内容==========
+
+
+While True
+
+
+'==========以下是按键精灵录制的内容==========
+
+Delay 192
+LeftClick 1
+
+Delay 283
+KeyDown "2", 1
+Delay 69
+KeyUp "2", 1
+Delay 64
+KeyDown "2", 1
+Delay 68
+KeyUp "2", 1
+Delay 65
+KeyDown "2", 1
+Delay 68
+KeyUp "2", 1
+Delay 67
+KeyDown "2", 1
+Delay 67
+KeyUp "2", 1
+Delay 301
+KeyDown "4", 1
+Delay 82
+KeyUp "4", 1
+Delay 69
+KeyDown "4", 1
+Delay 81
+KeyUp "4", 1
+Delay 50
+KeyDown "4", 1
+Delay 67
+KeyUp "4", 1
+Delay 85
+KeyDown "4", 1
+Delay 64
+KeyUp "4", 1
+Delay 34
+KeyDown "4", 1
+Delay 84
+KeyUp "4", 1
+Delay 49
+KeyDown "4", 1
+Delay 67
+KeyUp "4", 1
+Delay 316
+KeyDown "5", 1
+Delay 84
+KeyUp "5", 1
+Delay 52
+KeyDown "5", 1
+Delay 64
+KeyUp "5", 1
+Delay 67
+KeyDown "5", 1
+Delay 52
+KeyUp "5", 1
+Delay 82
+KeyDown "5", 1
+Delay 50
+KeyUp "5", 1
+Delay 50
+KeyDown "5", 1
+Delay 83
+KeyUp "5", 1
+Delay 401
+KeyDown "6", 1
+Delay 65
+KeyUp "6", 1
+Delay 51
+KeyDown "6", 1
+Delay 84
+KeyUp "6", 1
+Delay 49
+KeyDown "6", 1
+Delay 67
+KeyUp "6", 1
+Delay 49
+KeyDown "6", 1
+Delay 68
+KeyUp "6", 1
+Delay 50
+KeyDown "6", 1
+Delay 66
+KeyUp "6", 1
+Delay 436
+KeyDown "7", 1
+Delay 82
+KeyUp "7", 1
+Delay 49
+KeyDown "7", 1
+Delay 88
+KeyUp "7", 1
+Delay 45
+KeyDown "7", 1
+Delay 68
+KeyUp "7", 1
+Delay 49
+KeyDown "7", 1
+Delay 51
+KeyUp "7", 1
+Delay 49
+KeyDown "7", 1
+Delay 83
+KeyUp "7", 1
+Delay 486
+KeyDown "1", 1
+Delay 65
+KeyUp "1", 1
+Delay 67
+KeyDown "1", 1
+Delay 83
+KeyUp "1", 1
+Delay 51
+KeyDown "1", 1
+Delay 84
+KeyUp "1", 1
+Delay 65
+KeyDown "1", 1
+Delay 84
+KeyUp "1", 1
+Delay 52
+KeyDown "1", 1
+Delay 82
+KeyUp "1", 1
+Delay 449
+KeyDown "T", 1
+Delay 237
+KeyUp "T", 1
+Delay 2
+KeyDown "T", 1
+Delay 1
+KeyUp "T", 1
+Delay 1
+KeyDown "T", 1
+Delay 77
+KeyUp "T", 1
+Delay 65
+KeyDown "T", 1
+Delay 51
+KeyUp "T", 1
+Delay 51
+KeyDown "T", 1
+Delay 115
+KeyUp "T", 1
+Delay 500
+KeyDown "A", 1
+Delay 68
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+Delay 67
+KeyUp "A", 1
+Delay 48
+KeyDown "A", 1
+Delay 120
+KeyUp "A", 1
+Delay 14
+KeyDown "A", 1
+Delay 100
+KeyUp "A", 1
+Delay 66
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 69
+KeyDown "A", 1
+Delay 65
+KeyUp "A", 1
+Delay 67
+KeyDown "A", 1
+
+Delay 87
+KeyUp "A", 1
+'==========以上是按键精灵录制的内容==========
+
+For 8
+	
+	
+
+Delay 713
+KeyDown "F", 1
+Delay 132
+KeyUp "F", 1
+Delay 456
+KeyDown "Left", 1
+Delay 100
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyUp "Left", 1
+Delay 22
+KeyDown "F", 1
+Delay 432
+KeyUp "F", 1
+Delay 256
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 433
+KeyUp "F", 1
+Delay 307
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 498
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 34
+KeyDown "F", 1
+Delay 32
+Delay 34
+KeyDown "F", 1
+Delay 34
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 34
+KeyDown "F", 1
+Delay 33
+Delay 27
+KeyDown "F", 1
+Delay 39
+Delay 33
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 150
+
+
+KeyDown "Left", 1
+Delay 898
+Delay 37
+KeyUp "Left", 1
+Delay 84
+
+'==========以下是按键精灵录制的内容==========
+
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 59
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 78
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 484
+'==========以上是按键精灵录制的内容==========
+
+'==========以上是按键精灵录制的内容==========
+
+
+
+
+
+
+KeyDown "Right", 1
+Delay 71
+KeyUp "Right", 1
+Delay 34
+KeyDown "F", 1
+Delay 499
+
+KeyUp "F", 1
+Delay 160
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 497
+
+KeyUp "F", 1
+Delay 304
+
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 436
+KeyUp "F", 1
+Delay 217
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+
+KeyDown "F", 1
+Delay 478
+Delay 34
+KeyUp "F", 1
+Delay 150
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 513
+KeyDown "F", 1
+Delay 30
+Delay 32
+KeyDown "F", 1
+Delay 35
+Delay 34
+KeyDown "F", 1
+Delay 35
+Delay 31
+KeyDown "F", 1
+Delay 34
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 52
+KeyDown "F", 1
+Delay 2
+Delay 29
+KeyDown "F", 1
+Delay 50
+Delay 4
+KeyUp "F", 1
+
+Delay 300
+KeyDown "Down", 1
+Delay 100
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyUp "Down", 1
+
+
+
+'''' round 2
+
+Delay 913
+KeyDown "Left", 1
+Delay 100
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyUp "Left", 1
+Delay 22
+KeyDown "F", 1
+Delay 432
+KeyUp "F", 1
+Delay 256
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 433
+KeyUp "F", 1
+Delay 307
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 498
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 34
+KeyDown "F", 1
+Delay 32
+Delay 34
+KeyDown "F", 1
+Delay 34
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 34
+KeyDown "F", 1
+Delay 33
+Delay 27
+KeyDown "F", 1
+Delay 39
+Delay 33
+KeyDown "F", 1
+Delay 22
+KeyUp "F", 1
+Delay 150
+
+
+KeyDown "Left", 1
+Delay 898
+Delay 37
+KeyUp "Left", 1
+Delay 84
+
+
+KeyDown "Right", 1
+Delay 70
+KeyUp "Right", 1
+Delay 34
+KeyDown "F", 1
+Delay 499
+Delay 26
+KeyDown "F", 1
+Delay 40
+Delay 37
+KeyDown "F", 1
+Delay 30
+Delay 39
+KeyDown "F", 1
+Delay 28
+Delay 34
+KeyDown "F", 1
+Delay 22
+Delay 43
+KeyDown "F", 1
+Delay 51
+Delay 3
+KeyDown "F", 1
+Delay 54
+Delay 14
+KeyDown "F", 1
+Delay 45
+Delay 23
+KeyDown "F", 1
+Delay 45
+Delay 33
+KeyDown "F", 1
+Delay 3
+KeyUp "F", 1
+Delay 230
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 497
+
+KeyUp "F", 1
+Delay 304
+
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "F", 1
+Delay 436
+KeyUp "F", 1
+Delay 217
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+
+KeyDown "F", 1
+Delay 478
+Delay 34
+KeyUp "F", 1
+Delay 150
+
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+
+KeyDown "F", 1
+Delay 513
+KeyDown "F", 1
+Delay 30
+Delay 32
+KeyDown "F", 1
+Delay 35
+Delay 34
+KeyDown "F", 1
+Delay 35
+Delay 31
+KeyDown "F", 1
+Delay 34
+Delay 33
+KeyDown "F", 1
+Delay 33
+Delay 52
+KeyDown "F", 1
+Delay 2
+Delay 29
+KeyDown "F", 1
+Delay 50
+Delay 4
+KeyUp "F", 1
+
+Delay 300
+KeyDown "A", 1
+Delay 83
+KeyUp "A", 1
+Delay 59
+KeyDown "A", 1
+Delay 81
+KeyUp "A", 1
+Delay 83
+KeyDown "A", 1
+Delay 78
+KeyUp "A", 1
+Delay 88
+KeyDown "A", 1
+Delay 77
+KeyUp "A", 1
+Delay 384
+KeyDown "Down", 1
+Delay 100
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyDown "D", 1
+Delay 22
+KeyUp "D", 1
+Delay 22
+KeyUp "Down", 1
+
+
+
+
+Next
+'==========以上是按键精灵录制的内容==========
+Wend
