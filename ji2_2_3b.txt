@@ -1,0 +1,4061 @@
+'==========ÒÔÏÂÊÇ°´¼ü¾«ÁéÂ¼ÖÆµÄÄÚÈÝ==========
+
+While True
+Delay 185
+KeyDown 1, 1
+Delay 65
+KeyUp 1, 1
+Delay 67
+KeyDown 1, 1
+Delay 67
+KeyUp 1, 1
+Delay 66
+KeyDown 1, 1
+Delay 84
+KeyUp 1, 1
+Delay 50
+KeyDown 1, 1
+Delay 83
+KeyUp 1, 1
+Delay 67
+KeyDown 1, 1
+Delay 83
+KeyUp 1, 1
+Delay 566
+KeyDown 2, 1
+Delay 69
+KeyUp 2, 1
+Delay 64
+KeyDown 2, 1
+Delay 84
+KeyUp 2, 1
+Delay 52
+KeyDown 2, 1
+Delay 99
+KeyUp 2, 1
+Delay 50
+KeyDown 2, 1
+Delay 84
+KeyUp 2, 1
+Delay 83
+KeyDown 2, 1
+Delay 84
+KeyUp 2, 1
+Delay 65
+KeyDown 2, 1
+Delay 68
+KeyUp 2, 1
+Delay 500
+KeyDown 5, 1
+Delay 83
+KeyUp 5, 1
+Delay 67
+KeyDown 5, 1
+Delay 65
+KeyUp 5, 1
+Delay 51
+KeyDown 5, 1
+Delay 84
+KeyUp 5, 1
+Delay 32
+KeyDown 5, 1
+Delay 83
+KeyUp 5, 1
+Delay 52
+KeyDown 5, 1
+Delay 48
+KeyUp 5, 1
+Delay 84
+KeyDown 5, 1
+Delay 50
+KeyUp 5, 1
+Delay 83
+KeyDown 5, 1
+Delay 68
+KeyUp 5, 1
+Delay 67
+KeyDown 5, 1
+Delay 50
+KeyUp 5, 1
+Delay 67
+KeyDown 5, 1
+Delay 83
+KeyUp 5, 1
+Delay 749
+KeyDown 6, 1
+Delay 51
+KeyUp 6, 1
+Delay 66
+KeyDown 6, 1
+Delay 68
+KeyUp 6, 1
+Delay 49
+KeyDown 6, 1
+Delay 83
+KeyUp 6, 1
+Delay 51
+KeyDown 6, 1
+Delay 66
+KeyUp 6, 1
+Delay 68
+KeyDown 6, 1
+Delay 65
+KeyUp 6, 1
+Delay 267
+
+
+KeyDown Down, 1
+Delay 50
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Down, 1
+Delay 800
+
+'==========ÒÔÏÂÊÇ°´¼ü¾«ÁéÂ¼ÖÆµÄÄÚÈÝ==========
+
+
+'==========ÒÔÉÏÊÇ°´¼ü¾«ÁéÂ¼ÖÆµÄÄÚÈÝ==========
+KeyDown Left, 1
+Delay 166
+KeyUp Left, 1
+Delay 52
+KeyDown Left, 1
+Delay 100
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+
+KeyUp Left, 1
+Delay 117
+
+
+KeyDown C, 1
+Delay 69
+KeyUp C, 1
+Delay 50
+KeyDown C, 1
+Delay 83
+KeyUp C, 1
+Delay 48
+KeyDown C, 1
+Delay 67
+KeyUp C, 1
+Delay 49
+KeyDown C, 1
+Delay 66
+KeyUp C, 1
+Delay 50
+KeyDown C, 1
+Delay 67
+KeyUp C, 1
+Delay 50
+KeyDown C, 1
+Delay 67
+KeyUp C, 1
+Delay 518
+
+KeyDown Left, 1
+Delay 65
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Left, 1
+Delay 301
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 55
+KeyDown W, 1
+Delay 112
+KeyUp W, 1
+Delay 33
+KeyDown Left, 1
+Delay 68
+
+KeyDown Z, 1
+Delay 98
+KeyUp Z, 1
+Delay 50
+KeyDown Z, 1
+Delay 69
+KeyUp Z, 1
+Delay 48
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 70
+KeyDown Z, 1
+Delay 62
+
+KeyUp Z, 1
+Delay 1067
+KeyDown Right, 1
+Delay 51
+KeyUp Left, 1
+Delay 68
+KeyUp Right, 1
+Delay 82
+KeyDown Q, 1
+Delay 66
+KeyUp Q, 1
+Delay 68
+KeyDown Q, 1
+Delay 70
+KeyUp Q, 1
+Delay 47
+KeyDown Q, 1
+Delay 83
+KeyUp Q, 1
+Delay 50
+KeyDown Q, 1
+Delay 66
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 83
+KeyUp Q, 1
+Delay 219
+KeyDown Left, 1
+Delay 498
+Delay 32
+KeyDown Left, 1
+Delay 39
+Delay 28
+KeyDown Left, 1
+Delay 35
+Delay 32
+KeyUp Left, 1
+Delay 50
+KeyDown Up, 1
+Delay 79
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyUp Up, 1
+Delay 119
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 49
+KeyDown W, 1
+Delay 82
+KeyUp W, 1
+Delay 64
+KeyDown W, 1
+Delay 69
+KeyUp W, 1
+Delay 34
+KeyDown W, 1
+Delay 117
+KeyUp W, 1
+Delay 50
+KeyDown Left, 1
+Delay 50
+KeyDown Z, 1
+Delay 83
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 65
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 35
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 65
+KeyUp Z, 1
+Delay 64
+
+KeyUp Left, 1
+Delay 76
+KeyDown Right, 1
+Delay 90
+KeyUp Right, 1
+Delay 201
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 16
+KeyUp D, 1
+Delay 66
+KeyUp F, 1
+Delay 72
+KeyDown F, 1
+Delay 13
+KeyUp F, 1
+Delay 82
+KeyDown F, 1
+Delay 76
+KeyUp F, 1
+Delay 41
+KeyDown F, 1
+Delay 51
+KeyUp F, 1
+Delay 78
+KeyDown F, 1
+Delay 54
+KeyUp F, 1
+Delay 367
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 82
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 69
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 50
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 85
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 41
+KeyUp W, 1
+Delay 576
+KeyDown Right, 1
+Delay 266
+KeyDown 6, 1
+Delay 67
+KeyUp 6, 1
+Delay 76
+KeyDown 6, 1
+Delay 58
+KeyUp 6, 1
+Delay 50
+KeyDown 6, 1
+Delay 83
+KeyUp 6, 1
+Delay 51
+KeyDown 6, 1
+Delay 66
+KeyUp 6, 1
+Delay 66
+KeyDown 6, 1
+Delay 51
+KeyUp 6, 1
+Delay 66
+KeyDown 6, 1
+Delay 50
+KeyUp 6, 1
+Delay 102
+KeyUp Right, 1
+Delay 33
+KeyDown Left, 1
+Delay 133
+KeyUp Left, 1
+Delay 183
+KeyDown T, 1
+Delay 86
+KeyUp T, 1
+Delay 31
+KeyDown T, 1
+Delay 67
+KeyUp T, 1
+Delay 51
+KeyDown T, 1
+Delay 82
+KeyUp T, 1
+Delay 50
+KeyDown T, 1
+Delay 68
+KeyUp T, 1
+Delay 66
+KeyDown T, 1
+Delay 49
+KeyUp T, 1
+Delay 71
+KeyDown T, 1
+Delay 63
+KeyUp T, 1
+Delay 1033
+KeyDown D, 1
+Delay 33
+KeyDown F, 1
+Delay 60
+KeyUp D, 1
+Delay 40
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 33
+KeyUp F, 1
+Delay 68
+KeyDown F, 1
+Delay 74
+KeyUp F, 1
+Delay 43
+KeyDown F, 1
+Delay 90
+KeyUp F, 1
+Delay 326
+KeyDown 6, 1
+Delay 68
+KeyUp 6, 1
+Delay 68
+KeyDown 6, 1
+Delay 65
+KeyUp 6, 1
+Delay 48
+KeyDown 6, 1
+Delay 85
+KeyUp 6, 1
+Delay 50
+KeyDown 6, 1
+Delay 67
+KeyUp 6, 1
+Delay 35
+KeyDown 6, 1
+Delay 64
+KeyUp 6, 1
+Delay 329
+KeyDown W, 1
+Delay 72
+KeyUp W, 1
+Delay 51
+KeyDown W, 1
+Delay 86
+KeyUp W, 1
+Delay 47
+KeyDown W, 1
+Delay 81
+KeyUp W, 1
+Delay 51
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 54
+KeyUp W, 1
+Delay 767
+KeyDown D, 1
+Delay 31
+KeyDown F, 1
+Delay 35
+KeyUp D, 1
+Delay 47
+KeyUp F, 1
+Delay 54
+KeyDown F, 1
+Delay 86
+KeyUp F, 1
+Delay 44
+KeyDown F, 1
+Delay 73
+KeyUp F, 1
+Delay 63
+KeyDown F, 1
+Delay 81
+KeyUp F, 1
+Delay 316
+KeyDown D, 1
+Delay 52
+KeyDown F, 1
+Delay 32
+KeyUp D, 1
+Delay 33
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 88
+KeyUp F, 1
+Delay 260
+KeyDown D, 1
+Delay 71
+KeyDown F, 1
+Delay 46
+KeyUp D, 1
+Delay 34
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 53
+KeyUp F, 1
+Delay 71
+KeyDown F, 1
+Delay 78
+KeyUp F, 1
+Delay 366
+KeyDown W, 1
+Delay 70
+KeyUp W, 1
+Delay 63
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 86
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 683
+KeyDown D, 1
+Delay 34
+KeyDown F, 1
+Delay 36
+KeyUp D, 1
+Delay 56
+KeyUp F, 1
+Delay 61
+KeyDown F, 1
+Delay 63
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 57
+KeyUp F, 1
+Delay 78
+KeyDown F, 1
+Delay 64
+KeyUp F, 1
+Delay 317
+KeyDown D, 1
+Delay 35
+KeyDown F, 1
+Delay 52
+KeyUp D, 1
+Delay 22
+KeyUp F, 1
+Delay 59
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 867
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 73
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 76
+KeyUp W, 1
+Delay 69
+KeyDown W, 1
+Delay 81
+KeyUp W, 1
+Delay 834
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 38
+KeyUp D, 1
+Delay 47
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 60
+KeyDown F, 1
+Delay 88
+KeyUp F, 1
+Delay 87
+KeyDown F, 1
+Delay 47
+KeyUp F, 1
+Delay 267
+KeyDown D, 1
+Delay 66
+KeyDown F, 1
+Delay 34
+KeyUp D, 1
+Delay 49
+KeyUp F, 1
+Delay 52
+KeyDown F, 1
+Delay 85
+KeyUp F, 1
+Delay 49
+KeyDown F, 1
+Delay 81
+KeyUp F, 1
+Delay 369
+KeyDown D, 1
+Delay 51
+KeyDown F, 1
+Delay 47
+KeyUp D, 1
+Delay 34
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 64
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 400
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 76
+KeyDown W, 1
+Delay 56
+KeyUp W, 1
+Delay 69
+KeyDown W, 1
+Delay 60
+KeyUp W, 1
+Delay 90
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 1668
+KeyDown D, 1
+Delay 49
+KeyDown F, 1
+Delay 51
+KeyUp D, 1
+Delay 32
+KeyUp F, 1
+Delay 53
+KeyDown F, 1
+Delay 79
+KeyUp F, 1
+Delay 63
+KeyDown F, 1
+Delay 72
+KeyUp F, 1
+Delay 70
+KeyDown F, 1
+Delay 54
+KeyUp F, 1
+Delay 192
+KeyDown Left, 1
+Delay 501
+Delay 32
+KeyDown Left, 1
+Delay 33
+Delay 37
+KeyDown Left, 1
+Delay 30
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 34
+KeyDown Left, 1
+Delay 32
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 36
+Delay 32
+KeyDown Left, 1
+Delay 33
+Delay 34
+KeyDown Left, 1
+Delay 1
+KeyDown Right, 1
+Delay 48
+KeyUp Left, 1
+Delay 83
+KeyUp Right, 1
+Delay 119
+KeyDown W, 1
+Delay 51
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 92
+KeyUp W, 1
+Delay 40
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 82
+KeyDown W, 1
+Delay 72
+KeyUp W, 1
+Delay 830
+KeyDown D, 1
+Delay 68
+KeyDown F, 1
+Delay 5
+KeyUp D, 1
+Delay 61
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 60
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 59
+KeyUp F, 1
+Delay 1165
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 37
+KeyUp D, 1
+Delay 48
+KeyUp F, 1
+Delay 32
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 47
+KeyUp F, 1
+Delay 64
+KeyDown F, 1
+Delay 73
+KeyUp F, 1
+Delay 49
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 135
+KeyDown W, 1
+Delay 48
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 71
+KeyUp W, 1
+Delay 62
+KeyDown W, 1
+Delay 69
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 486
+KeyDown Down, 1
+Delay 182
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Down, 1
+Delay 167
+KeyDown Left, 1
+Delay 66
+
+KeyDown Z, 1
+Delay 51
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 49
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 82
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 76
+KeyUp Z, 1
+Delay 56
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 84
+KeyUp Z, 1
+Delay 48
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 50
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 65
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 50
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 582
+
+KeyUp Left, 1
+Delay 127
+
+KeyDown Right, 1
+Delay 153
+KeyDown Right, 1
+
+Delay 33
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Right, 1
+Delay 176
+KeyDown W, 1
+Delay 70
+KeyUp W, 1
+Delay 47
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 168
+KeyDown Right, 1
+Delay 165
+KeyDown Z, 1
+Delay 48
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 81
+KeyUp Z, 1
+Delay 452
+
+KeyUp Right, 1
+Delay 80
+KeyDown Q, 1
+Delay 81
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 67
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 52
+KeyUp Q, 1
+Delay 65
+KeyDown Q, 1
+Delay 67
+KeyUp Q, 1
+Delay 469
+KeyDown Up, 1
+Delay 96
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Up, 1
+Delay 394
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 61
+KeyDown W, 1
+Delay 55
+KeyUp W, 1
+Delay 89
+KeyDown W, 1
+Delay 27
+KeyUp W, 1
+Delay 86
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 100
+KeyDown Left, 1
+Delay 74
+
+
+
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 97
+KeyDown Z, 1
+Delay 50
+KeyUp Z, 1
+Delay 68
+KeyDown Z, 1
+Delay 86
+KeyUp Z, 1
+Delay 74
+
+KeyUp Left, 1
+Delay 134
+KeyDown Right, 1
+Delay 67
+KeyUp Right, 1
+Delay 133
+KeyDown D, 1
+Delay 52
+KeyDown F, 1
+Delay 31
+KeyUp D, 1
+Delay 68
+KeyUp F, 1
+Delay 82
+KeyDown F, 1
+Delay 36
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 79
+KeyUp F, 1
+Delay 57
+KeyDown F, 1
+Delay 61
+KeyUp F, 1
+Delay 617
+KeyDown Right, 1
+Delay 500
+Delay 33
+KeyDown Right, 1
+Delay 33
+Delay 34
+KeyDown Right, 1
+Delay 33
+Delay 34
+KeyDown Right, 1
+Delay 34
+Delay 34
+KeyDown Right, 1
+Delay 31
+Delay 34
+KeyDown Right, 1
+Delay 33
+Delay 34
+KeyDown Right, 1
+Delay 33
+Delay 2
+KeyUp Right, 1
+Delay 2
+KeyDown Left, 1
+Delay 113
+KeyUp Left, 1
+Delay 216
+KeyDown D, 1
+Delay 79
+KeyDown F, 1
+Delay 6
+KeyUp D, 1
+Delay 51
+KeyUp F, 1
+Delay 64
+KeyDown F, 1
+Delay 53
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 70
+KeyUp F, 1
+Delay 429
+KeyDown W, 1
+Delay 52
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 48
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 85
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 986
+KeyDown D, 1
+Delay 49
+KeyDown F, 1
+Delay 33
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 53
+KeyDown F, 1
+Delay 80
+KeyUp F, 1
+Delay 266
+KeyDown D, 1
+Delay 67
+KeyDown F, 1
+Delay 33
+KeyUp D, 1
+Delay 51
+KeyUp F, 1
+Delay 32
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 82
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 267
+KeyDown D, 1
+Delay 86
+KeyUp D, 1
+Delay 1
+KeyDown F, 1
+Delay 46
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 51
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 902
+KeyDown W, 1
+Delay 64
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 108
+KeyUp W, 1
+Delay 42
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 84
+KeyUp W, 1
+Delay 682
+KeyDown 6, 1
+Delay 51
+KeyUp 6, 1
+Delay 83
+KeyDown 6, 1
+Delay 52
+KeyUp 6, 1
+Delay 64
+KeyDown 6, 1
+Delay 66
+KeyUp 6, 1
+Delay 35
+KeyDown 6, 1
+Delay 68
+KeyUp 6, 1
+Delay 67
+KeyDown 6, 1
+Delay 48
+KeyUp 6, 1
+Delay 319
+KeyDown D, 1
+Delay 47
+KeyDown F, 1
+Delay 34
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 70
+KeyUp F, 1
+Delay 247
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 33
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 52
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 50
+KeyUp F, 1
+Delay 83
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 785
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 82
+KeyDown W, 1
+Delay 51
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 84
+KeyUp W, 1
+Delay 999
+KeyDown D, 1
+Delay 18
+KeyDown F, 1
+Delay 32
+KeyUp D, 1
+Delay 69
+KeyUp F, 1
+Delay 49
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 50
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 417
+KeyDown T, 1
+Delay 50
+KeyUp T, 1
+Delay 67
+KeyDown T, 1
+Delay 84
+KeyUp T, 1
+Delay 49
+KeyDown T, 1
+Delay 85
+KeyUp T, 1
+Delay 33
+KeyDown T, 1
+Delay 49
+KeyUp T, 1
+Delay 67
+KeyDown T, 1
+Delay 67
+KeyUp T, 1
+Delay 1526
+KeyDown D, 1
+Delay 41
+KeyDown F, 1
+Delay 18
+KeyUp D, 1
+Delay 68
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 48
+KeyDown F, 1
+Delay 69
+KeyUp F, 1
+Delay 80
+KeyDown F, 1
+Delay 61
+KeyUp F, 1
+Delay 290
+KeyDown D, 1
+Delay 33
+KeyDown F, 1
+Delay 51
+KeyUp D, 1
+Delay 57
+KeyUp F, 1
+Delay 58
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 85
+KeyUp F, 1
+Delay 201
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 68
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 618
+KeyDown D, 1
+Delay 32
+KeyDown F, 1
+Delay 67
+KeyUp D, 1
+Delay 33
+KeyUp F, 1
+Delay 83
+KeyDown F, 1
+Delay 51
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 69
+KeyUp F, 1
+Delay 64
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 287
+KeyDown D, 1
+Delay 30
+KeyDown F, 1
+Delay 51
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 79
+KeyDown F, 1
+Delay 53
+KeyUp F, 1
+Delay 55
+KeyDown F, 1
+Delay 79
+KeyUp F, 1
+Delay 73
+KeyDown F, 1
+Delay 62
+KeyUp F, 1
+Delay 634
+KeyDown W, 1
+Delay 64
+KeyUp W, 1
+Delay 70
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 68
+KeyDown W, 1
+Delay 99
+KeyUp W, 1
+Delay 583
+KeyDown Left, 1
+Delay 501
+Delay 33
+KeyDown Left, 1
+Delay 35
+Delay 32
+KeyDown Left, 1
+Delay 33
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 33
+Delay 34
+KeyDown Left, 1
+Delay 32
+Delay 34
+KeyDown Left, 1
+Delay 34
+Delay 33
+KeyDown Left, 1
+Delay 35
+Delay 31
+KeyDown Left, 1
+Delay 34
+Delay 3
+KeyDown Right, 1
+Delay 46
+KeyUp Left, 1
+Delay 67
+KeyUp Right, 1
+Delay 267
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 43
+KeyUp D, 1
+Delay 41
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 93
+KeyUp F, 1
+Delay 341
+KeyDown W, 1
+Delay 50
+KeyUp W, 1
+Delay 68
+KeyDown W, 1
+Delay 75
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 77
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 82
+KeyUp W, 1
+Delay 854
+KeyDown D, 1
+Delay 64
+KeyDown F, 1
+Delay 33
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 65
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 51
+KeyUp F, 1
+Delay 953
+KeyDown Down, 1
+Delay 97
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Down, 1
+Delay 234
+KeyDown Left, 1
+Delay 34
+
+KeyDown Z, 1
+Delay 83
+KeyUp Z, 1
+Delay 53
+KeyDown Z, 1
+Delay 62
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 82
+KeyUp Z, 1
+Delay 49
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 56
+KeyDown Z, 1
+Delay 84
+KeyUp Z, 1
+Delay 44
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 64
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 114
+KeyUp Z, 1
+Delay 484
+
+KeyUp Left, 1
+Delay 149
+
+'=====start
+KeyDown Right, 1
+Delay 73
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Right, 1
+Delay 126
+KeyDown W, 1
+Delay 70
+KeyUp W, 1
+Delay 47
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 168
+KeyDown Right, 1
+Delay 165
+KeyDown Z, 1
+Delay 48
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 81
+KeyUp Z, 1
+Delay 402
+
+KeyUp Right, 1
+Delay 80
+
+KeyDown A, 1
+Delay 65
+KeyUp A, 1
+Delay 68
+KeyDown A, 1
+Delay 65
+KeyUp A, 1
+Delay 66
+KeyDown A, 1
+Delay 67
+KeyUp A, 1
+Delay 76
+KeyDown A, 1
+Delay 60
+KeyUp A, 1
+Delay 497
+'=====end
+
+KeyDown Q, 1
+Delay 74
+KeyUp Q, 1
+Delay 66
+KeyDown Q, 1
+Delay 75
+KeyUp Q, 1
+Delay 57
+KeyDown Q, 1
+Delay 64
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 50
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 50
+KeyUp Q, 1
+Delay 68
+KeyDown Q, 1
+Delay 65
+KeyUp Q, 1
+Delay 185
+KeyDown Right, 1
+Delay 200
+
+KeyDown R, 1
+Delay 75
+KeyUp R, 1
+Delay 41
+KeyDown R, 1
+Delay 52
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 75
+KeyUp R, 1
+Delay 43
+KeyDown R, 1
+Delay 72
+KeyUp R, 1
+Delay 60
+KeyDown R, 1
+Delay 54
+KeyUp R, 1
+Delay 64
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 50
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 61
+KeyDown R, 1
+Delay 72
+KeyUp R, 1
+Delay 35
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 52
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 85
+KeyDown R, 1
+Delay 51
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 77
+KeyDown R, 1
+Delay 57
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 86
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 82
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 71
+KeyDown R, 1
+Delay 95
+KeyUp R, 1
+Delay 78
+KeyDown R, 1
+Delay 74
+KeyUp R, 1
+Delay 72
+KeyDown R, 1
+Delay 77
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 88
+KeyUp R, 1
+Delay 84
+KeyDown R, 1
+Delay 85
+KeyUp R, 1
+Delay 95
+KeyDown R, 1
+Delay 39
+KeyUp R, 1
+Delay 76
+KeyDown R, 1
+Delay 39
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 117
+KeyDown R, 1
+Delay 86
+KeyUp R, 1
+Delay 348
+KeyDown 6, 1
+Delay 83
+KeyUp 6, 1
+Delay 49
+KeyDown 6, 1
+Delay 69
+KeyUp 6, 1
+Delay 66
+KeyDown 6, 1
+Delay 76
+KeyUp 6, 1
+Delay 15
+KeyUp Right, 1
+Delay 45
+KeyDown 6, 1
+Delay 69
+KeyUp 6, 1
+Delay 61
+KeyDown 6, 1
+Delay 67
+KeyUp 6, 1
+Delay 50
+KeyDown 6, 1
+Delay 82
+KeyUp 6, 1
+Delay 786
+KeyDown C, 1
+Delay 83
+KeyUp C, 1
+Delay 50
+KeyDown C, 1
+Delay 61
+KeyUp C, 1
+Delay 61
+KeyDown C, 1
+Delay 78
+KeyUp C, 1
+Delay 49
+KeyDown C, 1
+Delay 66
+KeyUp C, 1
+Delay 51
+KeyDown C, 1
+Delay 100
+KeyUp C, 1
+Delay 367
+KeyDown Left, 1
+Delay 501
+Delay 34
+KeyDown Left, 1
+Delay 31
+Delay 34
+KeyDown Left, 1
+Delay 32
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 35
+KeyDown Left, 1
+Delay 32
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 35
+Delay 34
+KeyDown Left, 1
+Delay 32
+Delay 34
+KeyDown Left, 1
+Delay 32
+Delay 34
+KeyDown Left, 1
+Delay 33
+Delay 2
+KeyUp Left, 1
+Delay 132
+KeyDown Up, 1
+Delay 84
+
+KeyDown Z, 1
+Delay 505
+Delay 43
+KeyDown Z, 1
+Delay 19
+Delay 31
+KeyDown Z, 1
+Delay 33
+Delay 35
+KeyDown Z, 1
+Delay 33
+Delay 34
+KeyDown Z, 1
+Delay 32
+Delay 38
+KeyDown Z, 1
+Delay 29
+Delay 38
+KeyDown Z, 1
+Delay 29
+Delay 35
+KeyDown Z, 1
+Delay 32
+Delay 33
+KeyDown Z, 1
+Delay 40
+Delay 27
+KeyDown Z, 1
+Delay 56
+KeyUp Z, 1
+Delay 5
+KeyUp Up, 1
+Delay 173
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 2
+KeyDown Left, 1
+Delay 53
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 48
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 50
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 73
+KeyUp R, 1
+Delay 59
+KeyDown R, 1
+Delay 51
+KeyUp R, 1
+Delay 51
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 51
+KeyUp R, 1
+Delay 86
+KeyDown R, 1
+Delay 46
+KeyUp R, 1
+Delay 85
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 55
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 73
+KeyDown R, 1
+Delay 62
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 50
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 50
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 54
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 79
+KeyDown R, 1
+Delay 49
+KeyUp R, 1
+Delay 86
+KeyDown R, 1
+Delay 48
+KeyUp R, 1
+Delay 82
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 51
+KeyDown R, 1
+Delay 87
+KeyUp R, 1
+Delay 47
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 34
+KeyDown R, 1
+Delay 101
+KeyUp R, 1
+Delay 58
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 41
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 34
+KeyDown R, 1
+Delay 99
+KeyUp R, 1
+Delay 52
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 69
+KeyDown R, 1
+Delay 49
+KeyUp R, 1
+Delay 83
+KeyDown R, 1
+Delay 86
+KeyUp R, 1
+Delay 63
+KeyDown R, 1
+Delay 70
+KeyUp R, 1
+Delay 66
+KeyUp Left, 1
+Delay 448
+KeyDown Up, 1
+Delay 106
+KeyDown Z, 1
+Delay 511
+Delay 46
+KeyDown Z, 1
+Delay 14
+Delay 41
+KeyDown Z, 1
+Delay 21
+Delay 44
+KeyDown Z, 1
+Delay 42
+Delay 26
+KeyDown Z, 1
+Delay 33
+Delay 33
+KeyDown Z, 1
+Delay 27
+Delay 26
+KeyDown Z, 1
+Delay 37
+Delay 27
+KeyDown Z, 1
+Delay 33
+Delay 34
+KeyDown Z, 1
+Delay 33
+Delay 33
+KeyDown Z, 1
+Delay 35
+Delay 33
+KeyDown Z, 1
+Delay 38
+
+KeyUp Z, 1
+Delay 2
+KeyUp Up, 1
+
+Delay 464
+KeyDown Right, 1
+Delay 249
+KeyUp Right, 1
+Delay 84
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 61
+KeyDown R, 1
+Delay 72
+KeyUp R, 1
+Delay 72
+KeyDown R, 1
+Delay 61
+KeyUp R, 1
+Delay 62
+KeyDown R, 1
+Delay 88
+KeyUp R, 1
+Delay 46
+KeyDown R, 1
+Delay 53
+KeyUp R, 1
+Delay 72
+KeyDown R, 1
+Delay 77
+KeyUp R, 1
+Delay 115
+
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 49
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 52
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 63
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 69
+KeyUp R, 1
+Delay 2
+KeyDown Left, 1
+Delay 162
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 69
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 83
+KeyDown R, 1
+Delay 69
+KeyUp R, 1
+Delay 48
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 70
+KeyUp R, 1
+Delay 83
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 53
+KeyDown R, 1
+Delay 95
+KeyUp R, 1
+Delay 70
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 86
+KeyUp R, 1
+Delay 64
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 51
+KeyDown R, 1
+Delay 101
+KeyUp R, 1
+Delay 60
+KeyDown R, 1
+Delay 85
+KeyUp R, 1
+Delay 53
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 103
+KeyUp Left, 1
+Delay 2
+KeyDown Right, 1
+Delay 135
+KeyUp Right, 1
+Delay 243
+KeyDown Down, 1
+Delay 167
+KeyDown D, 1
+Delay 216
+KeyUp D, 1
+Delay 601
+KeyUp Down, 1
+Delay 350
+KeyDown Right, 1
+Delay 335
+KeyDown W, 1
+Delay 10
+KeyUp Right, 1
+Delay 55
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 51
+KeyUp W, 1
+Delay 634
+KeyDown Right, 1
+Delay 498
+Delay 37
+KeyDown Right, 1
+Delay 30
+Delay 42
+KeyDown Right, 1
+Delay 26
+Delay 33
+KeyDown Right, 1
+Delay 59
+Delay 5
+KeyDown Right, 1
+Delay 38
+Delay 30
+KeyDown Right, 1
+Delay 34
+Delay 34
+KeyDown Right, 1
+Delay 32
+Delay 35
+KeyDown Right, 1
+Delay 33
+Delay 35
+KeyDown Right, 1
+Delay 33
+Delay 15
+KeyUp Right, 1
+Delay 2
+KeyDown Left, 1
+Delay 116
+KeyUp Left, 1
+Delay 84
+KeyDown T, 1
+Delay 83
+KeyUp T, 1
+Delay 50
+KeyDown T, 1
+Delay 64
+KeyUp T, 1
+Delay 67
+KeyDown T, 1
+Delay 50
+KeyUp T, 1
+Delay 68
+KeyDown T, 1
+Delay 68
+KeyUp T, 1
+Delay 251
+KeyDown 6, 1
+Delay 59
+KeyUp 6, 1
+Delay 55
+KeyDown 6, 1
+Delay 89
+KeyUp 6, 1
+Delay 44
+KeyDown 6, 1
+Delay 67
+KeyUp 6, 1
+Delay 67
+KeyDown 6, 1
+Delay 49
+KeyUp 6, 1
+Delay 68
+KeyDown 6, 1
+Delay 65
+KeyUp 6, 1
+Delay 67
+KeyDown 6, 1
+Delay 67
+KeyUp 6, 1
+Delay 400
+KeyDown D, 1
+Delay 67
+KeyDown F, 1
+Delay 25
+KeyUp D, 1
+Delay 26
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 58
+KeyDown F, 1
+Delay 75
+KeyUp F, 1
+Delay 43
+KeyDown F, 1
+Delay 57
+KeyUp F, 1
+Delay 269
+KeyDown D, 1
+Delay 33
+KeyDown F, 1
+Delay 50
+KeyUp D, 1
+Delay 49
+KeyUp F, 1
+Delay 34
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 94
+KeyUp F, 1
+Delay 56
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 199
+KeyDown Left, 1
+Delay 500
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 33
+KeyDown Left, 1
+Delay 33
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 21
+KeyDown Left, 1
+Delay 45
+Delay 37
+KeyDown Left, 1
+Delay 29
+Delay 37
+KeyDown Left, 1
+Delay 30
+Delay 16
+KeyDown Right, 1
+Delay 34
+KeyUp Left, 1
+Delay 100
+KeyUp Right, 1
+Delay 85
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 64
+KeyDown W, 1
+Delay 87
+KeyUp W, 1
+Delay 52
+KeyDown W, 1
+Delay 98
+KeyUp W, 1
+Delay 449
+KeyDown Down, 1
+Delay 164
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Down, 1
+Delay 216
+KeyDown Left, 1
+Delay 81
+
+KeyDown Z, 1
+Delay 71
+KeyUp Z, 1
+Delay 65
+KeyDown Z, 1
+Delay 64
+KeyUp Z, 1
+Delay 49
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 64
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 65
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 65
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 49
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 71
+KeyUp Z, 1
+Delay 61
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 83
+KeyUp Z, 1
+Delay 150
+KeyUp Left, 1
+Delay 202
+
+KeyDown Right, 1
+Delay 82
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Right, 1
+Delay 184
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 71
+KeyUp W, 1
+Delay 78
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 82
+KeyUp W, 1
+Delay 74
+KeyDown Right, 1
+Delay 160
+
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 40
+KeyDown Z, 1
+Delay 76
+KeyUp Z, 1
+Delay 52
+KeyDown Z, 1
+Delay 81
+KeyUp Z, 1
+Delay 254
+
+KeyUp Right, 1
+Delay 71
+KeyDown Q, 1
+Delay 47
+KeyUp Q, 1
+Delay 65
+KeyDown Q, 1
+Delay 67
+KeyUp Q, 1
+Delay 68
+KeyDown Q, 1
+Delay 65
+KeyUp Q, 1
+Delay 76
+KeyDown Q, 1
+Delay 76
+KeyUp Q, 1
+Delay 453
+KeyDown Up, 1
+Delay 67
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 21
+
+KeyUp Up, 1
+Delay 199
+KeyDown W, 1
+Delay 77
+KeyUp W, 1
+Delay 57
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 108
+KeyDown W, 1
+Delay 42
+KeyUp W, 1
+Delay 68
+KeyDown W, 1
+Delay 108
+KeyUp W, 1
+Delay 91
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 234
+KeyDown Left, 1
+Delay 16
+
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 216
+
+KeyUp Left, 1
+Delay 168
+KeyDown Right, 1
+Delay 82
+KeyUp Right, 1
+Delay 84
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 19
+KeyUp D, 1
+Delay 64
+KeyUp F, 1
+Delay 35
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 17
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 81
+KeyDown Right, 1
+Delay 502
+Delay 32
+KeyDown Right, 1
+Delay 33
+Delay 34
+KeyDown Right, 1
+Delay 34
+Delay 33
+KeyDown Right, 1
+Delay 33
+Delay 33
+KeyDown Right, 1
+Delay 35
+Delay 33
+KeyDown Right, 1
+Delay 16
+KeyUp Right, 1
+Delay 1
+KeyDown Left, 1
+Delay 115
+KeyUp Left, 1
+Delay 100
+KeyDown D, 1
+Delay 56
+KeyDown F, 1
+Delay 20
+KeyUp D, 1
+Delay 59
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 88
+KeyUp F, 1
+Delay 43
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 55
+KeyDown F, 1
+Delay 62
+KeyUp F, 1
+Delay 200
+KeyDown D, 1
+Delay 66
+KeyDown F, 1
+Delay 17
+KeyUp D, 1
+Delay 66
+KeyUp F, 1
+Delay 37
+KeyDown F, 1
+Delay 81
+KeyUp F, 1
+Delay 70
+KeyDown F, 1
+Delay 65
+KeyUp F, 1
+Delay 53
+KeyDown F, 1
+Delay 61
+KeyUp F, 1
+Delay 202
+KeyDown Right, 1
+Delay 198
+KeyUp Right, 1
+Delay 3
+KeyDown Left, 1
+Delay 111
+KeyUp Left, 1
+Delay 72
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 66
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 76
+KeyDown W, 1
+Delay 75
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 69
+KeyUp W, 1
+Delay 833
+KeyDown D, 1
+Delay 33
+KeyDown F, 1
+Delay 66
+KeyUp D, 1
+Delay 16
+KeyUp F, 1
+Delay 84
+KeyDown F, 1
+Delay 65
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 55
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 265
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 50
+KeyUp D, 1
+Delay 49
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 52
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 87
+KeyUp F, 1
+Delay 433
+KeyDown Left, 1
+Delay 498
+Delay 33
+KeyDown Left, 1
+Delay 37
+Delay 29
+KeyDown Left, 1
+Delay 34
+KeyUp Left, 1
+Delay 33
+KeyDown Right, 1
+Delay 367
+KeyUp Right, 1
+Delay 134
+KeyDown W, 1
+Delay 76
+KeyUp W, 1
+Delay 100
+KeyDown W, 1
+Delay 32
+KeyUp W, 1
+Delay 76
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 933
+KeyDown D, 1
+Delay 68
+KeyDown F, 1
+Delay 20
+KeyUp D, 1
+Delay 46
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 70
+KeyDown F, 1
+Delay 81
+KeyUp F, 1
+Delay 283
+KeyDown T, 1
+Delay 66
+KeyUp T, 1
+Delay 67
+KeyDown T, 1
+Delay 62
+KeyUp T, 1
+Delay 56
+KeyDown T, 1
+Delay 69
+KeyUp T, 1
+Delay 47
+KeyDown T, 1
+Delay 66
+KeyUp T, 1
+Delay 84
+KeyDown T, 1
+Delay 67
+KeyUp T, 1
+Delay 267
+KeyDown 6, 1
+Delay 66
+KeyUp 6, 1
+Delay 51
+KeyDown 6, 1
+Delay 82
+KeyUp 6, 1
+Delay 34
+KeyDown 6, 1
+Delay 92
+KeyUp 6, 1
+Delay 57
+KeyDown 6, 1
+Delay 51
+KeyUp 6, 1
+Delay 67
+KeyDown 6, 1
+Delay 66
+KeyUp 6, 1
+Delay 67
+KeyDown Right, 1
+Delay 436
+KeyUp Right, 1
+Delay 1
+KeyDown Left, 1
+Delay 130
+KeyUp Left, 1
+Delay 100
+KeyDown D, 1
+Delay 18
+KeyDown F, 1
+Delay 54
+KeyUp D, 1
+Delay 49
+KeyUp F, 1
+Delay 47
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 33
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 317
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 35
+KeyUp D, 1
+Delay 49
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 83
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 57
+KeyUp F, 1
+Delay 61
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 117
+KeyDown Left, 1
+Delay 500
+Delay 33
+KeyDown Left, 1
+Delay 34
+Delay 34
+KeyDown Left, 1
+Delay 17
+Delay 33
+KeyDown Left, 1
+Delay 51
+Delay 33
+KeyDown Left, 1
+Delay 16
+Delay 169
+KeyDown Left, 1
+Delay 2
+Delay 2
+KeyDown Left, 1
+Delay 1
+Delay 1
+KeyDown Left, 1
+Delay 33
+Delay 25
+KeyDown Left, 1
+Delay 34
+Delay 33
+KeyDown Left, 1
+Delay 32
+KeyDown Right, 1
+Delay 50
+KeyUp Left, 1
+Delay 85
+KeyUp Right, 1
+Delay 215
+KeyDown D, 1
+Delay 33
+KeyDown F, 1
+Delay 34
+KeyUp D, 1
+Delay 51
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 78
+KeyUp F, 1
+Delay 40
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 316
+KeyDown D, 1
+Delay 84
+KeyUp D, 1
+Delay 2
+KeyDown F, 1
+Delay 39
+KeyUp F, 1
+Delay 43
+KeyDown F, 1
+Delay 107
+KeyUp F, 1
+Delay 45
+KeyDown F, 1
+Delay 184
+KeyUp F, 1
+Delay 331
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 52
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 83
+KeyUp W, 1
+Delay 634
+KeyDown D, 1
+Delay 50
+KeyDown F, 1
+Delay 51
+KeyUp D, 1
+Delay 33
+KeyUp F, 1
+Delay 49
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 70
+KeyDown F, 1
+Delay 65
+KeyUp F, 1
+Delay 416
+KeyDown D, 1
+Delay 48
+KeyDown F, 1
+Delay 50
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 52
+KeyDown F, 1
+Delay 85
+KeyUp F, 1
+Delay 64
+KeyDown F, 1
+Delay 50
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 998
+KeyDown W, 1
+Delay 53
+KeyUp W, 1
+Delay 81
+KeyDown W, 1
+Delay 72
+KeyUp W, 1
+Delay 61
+KeyDown W, 1
+Delay 66
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 84
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 719
+KeyDown D, 1
+Delay 32
+KeyDown F, 1
+Delay 34
+KeyUp D, 1
+Delay 67
+KeyUp F, 1
+Delay 69
+KeyDown F, 1
+Delay 82
+KeyUp F, 1
+Delay 65
+KeyDown F, 1
+Delay 69
+KeyUp F, 1
+Delay 365
+KeyDown D, 1
+Delay 51
+KeyDown F, 1
+Delay 32
+KeyUp D, 1
+Delay 34
+KeyUp F, 1
+Delay 66
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 52
+KeyDown F, 1
+Delay 80
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 84
+KeyUp F, 1
+Delay 250
+KeyDown D, 1
+Delay 49
+KeyDown F, 1
+Delay 50
+KeyUp D, 1
+Delay 50
+KeyUp F, 1
+Delay 34
+KeyDown F, 1
+Delay 102
+KeyUp F, 1
+Delay 48
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 70
+KeyDown F, 1
+Delay 64
+KeyUp F, 1
+Delay 391
+KeyDown D, 1
+Delay 25
+KeyDown F, 1
+Delay 49
+KeyUp D, 1
+Delay 68
+KeyUp F, 1
+Delay 51
+KeyDown F, 1
+Delay 66
+KeyUp F, 1
+Delay 50
+KeyDown F, 1
+Delay 87
+KeyUp F, 1
+Delay 63
+KeyDown F, 1
+Delay 67
+KeyUp F, 1
+Delay 416
+KeyDown W, 1
+Delay 50
+KeyUp W, 1
+Delay 85
+KeyDown W, 1
+Delay 53
+KeyUp W, 1
+Delay 78
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 466
+KeyDown Down, 1
+Delay 218
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Down, 1
+Delay 167
+KeyDown Left, 1
+Delay 69
+
+KeyDown Z, 1
+Delay 65
+KeyUp Z, 1
+Delay 69
+KeyDown Z, 1
+Delay 63
+KeyUp Z, 1
+Delay 69
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 47
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 84
+KeyUp Z, 1
+Delay 49
+KeyDown Z, 1
+Delay 83
+KeyUp Z, 1
+Delay 50
+KeyDown Z, 1
+Delay 83
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 65
+KeyUp Z, 1
+Delay 67
+KeyDown Z, 1
+Delay 84
+KeyUp Z, 1
+Delay 34
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 49
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 81
+KeyUp Z, 1
+Delay 113
+KeyUp Left, 1
+Delay 323
+KeyDown Right, 1
+Delay 50
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Right, 1
+Delay 350
+KeyDown W, 1
+Delay 65
+KeyUp W, 1
+Delay 69
+KeyDown W, 1
+Delay 61
+KeyUp W, 1
+Delay 70
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 69
+KeyDown W, 1
+Delay 67
+KeyUp W, 1
+Delay 299
+KeyDown Right, 1
+Delay 83
+
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 64
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 66
+KeyDown Z, 1
+Delay 68
+KeyUp Z, 1
+Delay 51
+KeyDown Z, 1
+Delay 98
+KeyUp Z, 1
+Delay 205
+
+KeyUp Right, 1
+Delay 96
+KeyDown Q, 1
+Delay 84
+KeyUp Q, 1
+Delay 34
+KeyDown Q, 1
+Delay 92
+KeyUp Q, 1
+Delay 40
+KeyDown Q, 1
+Delay 84
+KeyUp Q, 1
+Delay 67
+KeyDown Q, 1
+Delay 82
+KeyUp Q, 1
+Delay 403
+
+KeyDown A, 1
+Delay 84
+KeyUp A, 1
+Delay 67
+KeyDown A, 1
+Delay 82
+KeyUp A, 1
+Delay 463
+KeyDown Up, 1
+Delay 163
+
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Up, 1
+Delay 302
+KeyDown W, 1
+Delay 64
+KeyUp W, 1
+Delay 67
+KeyDown W, 1
+Delay 68
+KeyUp W, 1
+Delay 65
+KeyDown W, 1
+Delay 84
+KeyUp W, 1
+Delay 83
+KeyDown W, 1
+Delay 84
+KeyUp W, 1
+Delay 1
+KeyDown Left, 1
+Delay 134
+KeyDown Z, 1
+Delay 67
+KeyUp Z, 1
+Delay 62
+KeyDown Z, 1
+Delay 37
+KeyUp Z, 1
+Delay 62
+KeyDown Z, 1
+Delay 66
+KeyUp Z, 1
+Delay 183
+
+KeyUp Left, 1
+Delay 219
+KeyDown Left, 1
+Delay 115
+KeyDown F, 1
+Delay 34
+KeyUp Left, 1
+Delay 32
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 86
+KeyUp F, 1
+Delay 48
+KeyDown F, 1
+Delay 70
+KeyUp F, 1
+Delay 63
+KeyDown F, 1
+Delay 100
+KeyUp F, 1
+Delay 2
+KeyDown Left, 1
+Delay 498
+Delay 33
+KeyDown Left, 1
+Delay 35
+Delay 33
+KeyDown Left, 1
+Delay 33
+Delay 2
+KeyDown Right, 1
+Delay 47
+KeyUp Left, 1
+Delay 69
+KeyUp Right, 1
+Delay 1
+KeyDown F, 1
+Delay 63
+KeyUp F, 1
+Delay 67
+KeyDown F, 1
+Delay 68
+KeyUp F, 1
+Delay 65
+
+
+
+KeyDown Up, 1
+Delay 82
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+KeyDown Z, 1
+Delay 22
+KeyUp Z, 1
+Delay 22
+
+KeyUp Up, 1
+Delay 117
+KeyDown R, 1
+Delay 80
+KeyUp R, 1
+Delay 56
+KeyDown R, 1
+Delay 63
+KeyUp R, 1
+Delay 46
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 108
+KeyDown Right, 1
+Delay 92
+KeyDown R, 1
+Delay 54
+KeyUp R, 1
+Delay 71
+KeyDown R, 1
+Delay 58
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 69
+KeyUp R, 1
+Delay 64
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 69
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 80
+KeyUp R, 1
+Delay 71
+KeyDown R, 1
+Delay 81
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 70
+KeyUp R, 1
+Delay 98
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 116
+KeyDown R, 1
+Delay 52
+KeyUp R, 1
+Delay 84
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 87
+KeyDown R, 1
+Delay 63
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 90
+KeyUp R, 1
+Delay 63
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 64
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 71
+KeyDown R, 1
+Delay 77
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 101
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 86
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 98
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 83
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 1268
+KeyUp Right, 1
+Delay 32
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 84
+KeyDown R, 1
+Delay 53
+KeyUp R, 1
+Delay 79
+KeyDown Left, 1
+Delay 489
+KeyUp Left, 1
+Delay 22
+KeyDown R, 1
+Delay 51
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 83
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 66
+KeyUp R, 1
+Delay 50
+KeyDown R, 1
+Delay 84
+KeyUp R, 1
+Delay 68
+KeyDown R, 1
+Delay 81
+KeyUp R, 1
+Delay 59
+KeyDown R, 1
+Delay 93
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 69
+KeyDown R, 1
+Delay 82
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 82
+
+KeyDown R, 1
+Delay 65
+KeyUp R, 1
+Delay 66
+KeyDown R, 1
+Delay 59
+KeyUp R, 1
+Delay 74
+KeyDown R, 1
+Delay 67
+KeyUp R, 1
+Delay 74
+KeyDown R, 1
+Delay 76
+KeyUp R, 1
+Delay 69
+KeyDown R, 1
+Delay 64
+KeyUp R, 1
+Delay 485
+KeyDown R, 1
+Delay 1
+KeyDown Right, 1
+Delay 64
+KeyUp R, 1
+Delay 67
+KeyDown R, 1
+Delay 68
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 85
+KeyUp R, 1
+Delay 65
+KeyDown R, 1
+Delay 70
+KeyUp R, 1
+Delay 80
+KeyDown R, 1
+Delay 49
+KeyUp R, 1
+Delay 1635
+KeyDown Z, 1
+Delay 503
+Delay 32
+KeyDown Z, 1
+Delay 33
+Delay 32
+KeyDown Z, 1
+Delay 34
+Delay 32
+KeyDown Z, 1
+Delay 34
+Delay 36
+KeyDown Z, 1
+Delay 30
+Delay 35
+KeyDown Z, 1
+Delay 33
+Delay 33
+KeyDown Z, 1
+Delay 34
+Delay 33
+KeyDown Z, 1
+Delay 33
+Delay 34
+KeyDown Z, 1
+Delay 36
+Delay 30
+KeyDown Z, 1
+Delay 33
+Delay 35
+KeyDown Z, 1
+Delay 20
+Delay 46
+KeyDown Z, 1
+Delay 35
+Delay 33
+KeyDown Z, 1
+Delay 32
+Delay 34
+KeyDown Z, 1
+Delay 32
+Delay 18
+KeyDown Z, 1
+Delay 49
+Delay 19
+KeyDown Z, 1
+Delay 34
+Delay 51
+KeyDown Z, 1
+Delay 13
+Delay 36
+KeyDown Z, 1
+Delay 37
+Delay 27
+KeyDown Z, 1
+Delay 34
+Delay 32
+KeyDown Z, 1
+Delay 34
+Delay 35
+KeyDown Z, 1
+Delay 32
+Delay 33
+KeyDown Z, 1
+Delay 33
+Delay 34
+KeyDown Z, 1
+Delay 34
+Delay 33
+KeyDown Z, 1
+Delay 35
+Delay 32
+KeyDown Z, 1
+Delay 34
+Delay 32
+KeyDown Z, 1
+Delay 33
+Delay 17
+KeyUp Z, 1
+Delay 151
+KeyUp Right, 1
+'==========ÒÔÉÏÊÇ°´¼ü¾«ÁéÂ¼ÖÆµÄÄÚÈÝ==========
+Wend
