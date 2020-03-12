@@ -3910,7 +3910,8 @@ Delay 68
 KeyUp "F", 1
 Delay 65
 
-
+KeyDown "Up", 1
+Delay 35
 
 KeyDown "Z", 1
 Delay 22
