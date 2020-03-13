@@ -245,11 +245,11 @@ Delay 50
 KeyDown "C", 1
 Delay 67
 KeyUp "C", 1
-Delay 518
+Delay 918
 
 KeyDown "Left", 1
-Delay 65
-
+Delay 55
+Delay 22
 KeyDown "Z", 1
 Delay 22
 KeyUp "Z", 1
